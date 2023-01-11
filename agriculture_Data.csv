@@ -1,0 +1,909 @@
+,Unnamed: 0,Domain,Area,Element,Item,Year,Unit,Value,Flag Description,Country Code
+0,192,Crops and livestock products,Croatia,Import Quantity,Cattle,2006,Head,162288,Official figure,HR
+1,193,Crops and livestock products,Croatia,Import Quantity,Cattle,2007,Head,144750,Official figure,HR
+2,194,Crops and livestock products,Croatia,Import Quantity,Cattle,2008,Head,155515,Official figure,HR
+3,195,Crops and livestock products,Croatia,Import Quantity,Cattle,2009,Head,138672,Official figure,HR
+4,196,Crops and livestock products,Croatia,Import Quantity,Cattle,2010,Head,140123,Official figure,HR
+5,197,Crops and livestock products,Croatia,Import Quantity,Cattle,2011,Head,151900,Official figure,HR
+6,198,Crops and livestock products,Croatia,Import Quantity,Cattle,2012,Head,120056,Official figure,HR
+7,199,Crops and livestock products,Croatia,Import Quantity,Cattle,2013,Head,212807,Official figure,HR
+8,200,Crops and livestock products,Croatia,Import Quantity,Cattle,2014,Head,94097,Official figure,HR
+9,201,Crops and livestock products,Croatia,Import Quantity,Cattle,2015,Head,116969,Official figure,HR
+10,202,Crops and livestock products,Croatia,Import Quantity,Cattle,2016,Head,115823,Official figure,HR
+11,203,Crops and livestock products,Croatia,Import Quantity,Cattle,2017,Head,137463,Official figure,HR
+12,204,Crops and livestock products,Croatia,Import Quantity,Cattle,2018,Head,133371,Official figure,HR
+13,205,Crops and livestock products,Croatia,Import Quantity,Cattle,2019,Head,147348,Official figure,HR
+14,206,Crops and livestock products,Croatia,Import Quantity,Cattle,2020,Head,141667,Official figure,HR
+15,207,Crops and livestock products,Croatia,Import Quantity,Cattle,2021,Head,168185,Official figure,HR
+16,208,Crops and livestock products,Croatia,Import Value,Cattle,2006,1000 US$,88126,Official figure,HR
+17,209,Crops and livestock products,Croatia,Import Value,Cattle,2007,1000 US$,86958,Official figure,HR
+18,210,Crops and livestock products,Croatia,Import Value,Cattle,2008,1000 US$,106619,Official figure,HR
+19,211,Crops and livestock products,Croatia,Import Value,Cattle,2009,1000 US$,89080,Official figure,HR
+20,212,Crops and livestock products,Croatia,Import Value,Cattle,2010,1000 US$,87283,Official figure,HR
+21,213,Crops and livestock products,Croatia,Import Value,Cattle,2011,1000 US$,113567,Official figure,HR
+22,214,Crops and livestock products,Croatia,Import Value,Cattle,2012,1000 US$,80904,Official figure,HR
+23,215,Crops and livestock products,Croatia,Import Value,Cattle,2013,1000 US$,66595,Official figure,HR
+24,216,Crops and livestock products,Croatia,Import Value,Cattle,2014,1000 US$,70075,Official figure,HR
+25,217,Crops and livestock products,Croatia,Import Value,Cattle,2015,1000 US$,67498,Official figure,HR
+26,218,Crops and livestock products,Croatia,Import Value,Cattle,2016,1000 US$,64629,Official figure,HR
+27,219,Crops and livestock products,Croatia,Import Value,Cattle,2017,1000 US$,84105,Official figure,HR
+28,220,Crops and livestock products,Croatia,Import Value,Cattle,2018,1000 US$,88033,Official figure,HR
+29,221,Crops and livestock products,Croatia,Import Value,Cattle,2019,1000 US$,92644,Official figure,HR
+30,222,Crops and livestock products,Croatia,Import Value,Cattle,2020,1000 US$,90057,Official figure,HR
+31,223,Crops and livestock products,Croatia,Import Value,Cattle,2021,1000 US$,116287,Official figure,HR
+32,224,Crops and livestock products,Croatia,Import Quantity,Sheep,2006,Head,51858,Official figure,HR
+33,225,Crops and livestock products,Croatia,Import Quantity,Sheep,2007,Head,92639,Official figure,HR
+34,226,Crops and livestock products,Croatia,Import Quantity,Sheep,2008,Head,93687,Official figure,HR
+35,227,Crops and livestock products,Croatia,Import Quantity,Sheep,2009,Head,76480,Official figure,HR
+36,228,Crops and livestock products,Croatia,Import Quantity,Sheep,2010,Head,55796,Official figure,HR
+37,229,Crops and livestock products,Croatia,Import Quantity,Sheep,2011,Head,18155,Official figure,HR
+38,230,Crops and livestock products,Croatia,Import Quantity,Sheep,2012,Head,6974,Official figure,HR
+39,231,Crops and livestock products,Croatia,Import Quantity,Sheep,2013,Head,12580,Official figure,HR
+40,232,Crops and livestock products,Croatia,Import Quantity,Sheep,2014,Head,4924,Official figure,HR
+41,233,Crops and livestock products,Croatia,Import Quantity,Sheep,2015,Head,27422,Official figure,HR
+42,234,Crops and livestock products,Croatia,Import Quantity,Sheep,2016,Head,53579,Official figure,HR
+43,235,Crops and livestock products,Croatia,Import Quantity,Sheep,2017,Head,90258,Official figure,HR
+44,236,Crops and livestock products,Croatia,Import Quantity,Sheep,2018,Head,124147,Official figure,HR
+45,237,Crops and livestock products,Croatia,Import Quantity,Sheep,2019,Head,111019,Official figure,HR
+46,238,Crops and livestock products,Croatia,Import Quantity,Sheep,2020,Head,68827,Official figure,HR
+47,239,Crops and livestock products,Croatia,Import Quantity,Sheep,2021,Head,58696,Official figure,HR
+48,240,Crops and livestock products,Croatia,Import Value,Sheep,2006,1000 US$,3315,Official figure,HR
+49,241,Crops and livestock products,Croatia,Import Value,Sheep,2007,1000 US$,6340,Official figure,HR
+50,242,Crops and livestock products,Croatia,Import Value,Sheep,2008,1000 US$,7204,Official figure,HR
+51,243,Crops and livestock products,Croatia,Import Value,Sheep,2009,1000 US$,5808,Official figure,HR
+52,244,Crops and livestock products,Croatia,Import Value,Sheep,2010,1000 US$,3848,Official figure,HR
+53,245,Crops and livestock products,Croatia,Import Value,Sheep,2011,1000 US$,1699,Official figure,HR
+54,246,Crops and livestock products,Croatia,Import Value,Sheep,2012,1000 US$,612,Official figure,HR
+55,247,Crops and livestock products,Croatia,Import Value,Sheep,2013,1000 US$,1021,Official figure,HR
+56,248,Crops and livestock products,Croatia,Import Value,Sheep,2014,1000 US$,452,Official figure,HR
+57,249,Crops and livestock products,Croatia,Import Value,Sheep,2015,1000 US$,1787,Official figure,HR
+58,250,Crops and livestock products,Croatia,Import Value,Sheep,2016,1000 US$,2931,Official figure,HR
+59,251,Crops and livestock products,Croatia,Import Value,Sheep,2017,1000 US$,4955,Official figure,HR
+60,252,Crops and livestock products,Croatia,Import Value,Sheep,2018,1000 US$,7182,Official figure,HR
+61,253,Crops and livestock products,Croatia,Import Value,Sheep,2019,1000 US$,6399,Official figure,HR
+62,254,Crops and livestock products,Croatia,Import Value,Sheep,2020,1000 US$,4764,Official figure,HR
+63,255,Crops and livestock products,Croatia,Import Value,Sheep,2021,1000 US$,5162,Official figure,HR
+64,358,Crops and livestock products,Denmark,Import Quantity,Cattle,2006,Head,230,Official figure,DK
+65,359,Crops and livestock products,Denmark,Import Quantity,Cattle,2007,Head,14,Official figure,DK
+66,360,Crops and livestock products,Denmark,Import Quantity,Cattle,2008,Head,1,Unofficial figure,DK
+67,361,Crops and livestock products,Denmark,Import Quantity,Cattle,2009,Head,182,Unofficial figure,DK
+68,362,Crops and livestock products,Denmark,Import Quantity,Cattle,2010,Head,0,Unofficial figure,DK
+69,363,Crops and livestock products,Denmark,Import Quantity,Cattle,2011,Head,0,Estimated value,DK
+70,364,Crops and livestock products,Denmark,Import Quantity,Cattle,2012,Head,0,Estimated value,DK
+71,365,Crops and livestock products,Denmark,Import Quantity,Cattle,2013,Head,6,Official figure,DK
+72,366,Crops and livestock products,Denmark,Import Quantity,Cattle,2014,Head,28,Official figure,DK
+73,367,Crops and livestock products,Denmark,Import Quantity,Cattle,2015,Head,5802,Official figure,DK
+74,368,Crops and livestock products,Denmark,Import Quantity,Cattle,2016,Head,161,Official figure,DK
+75,369,Crops and livestock products,Denmark,Import Quantity,Cattle,2017,Head,284,Official figure,DK
+76,370,Crops and livestock products,Denmark,Import Quantity,Cattle,2018,Head,4485,Official figure,DK
+77,371,Crops and livestock products,Denmark,Import Quantity,Cattle,2019,Head,448,Official figure,DK
+78,372,Crops and livestock products,Denmark,Import Quantity,Cattle,2020,Head,1051,Official figure,DK
+79,373,Crops and livestock products,Denmark,Import Quantity,Cattle,2021,Head,8,Official figure,DK
+80,374,Crops and livestock products,Denmark,Import Value,Cattle,2006,1000 US$,210,Official figure,DK
+81,375,Crops and livestock products,Denmark,Import Value,Cattle,2007,1000 US$,28,Unofficial figure,DK
+82,376,Crops and livestock products,Denmark,Import Value,Cattle,2008,1000 US$,0,Official figure,DK
+83,377,Crops and livestock products,Denmark,Import Value,Cattle,2009,1000 US$,606,Official figure,DK
+84,378,Crops and livestock products,Denmark,Import Value,Cattle,2010,1000 US$,0,Unofficial figure,DK
+85,379,Crops and livestock products,Denmark,Import Value,Cattle,2011,1000 US$,0,Estimated value,DK
+86,380,Crops and livestock products,Denmark,Import Value,Cattle,2012,1000 US$,0,Estimated value,DK
+87,381,Crops and livestock products,Denmark,Import Value,Cattle,2013,1000 US$,34,Official figure,DK
+88,382,Crops and livestock products,Denmark,Import Value,Cattle,2014,1000 US$,39,Official figure,DK
+89,383,Crops and livestock products,Denmark,Import Value,Cattle,2015,1000 US$,206,Official figure,DK
+90,384,Crops and livestock products,Denmark,Import Value,Cattle,2016,1000 US$,266,Official figure,DK
+91,385,Crops and livestock products,Denmark,Import Value,Cattle,2017,1000 US$,277,Official figure,DK
+92,386,Crops and livestock products,Denmark,Import Value,Cattle,2018,1000 US$,3264,Official figure,DK
+93,387,Crops and livestock products,Denmark,Import Value,Cattle,2019,1000 US$,21,Official figure,DK
+94,388,Crops and livestock products,Denmark,Import Value,Cattle,2020,1000 US$,24,Official figure,DK
+95,389,Crops and livestock products,Denmark,Import Value,Cattle,2021,1000 US$,5,Official figure,DK
+96,390,Crops and livestock products,Denmark,Import Quantity,Sheep,2006,Head,0,Estimated value,DK
+97,391,Crops and livestock products,Denmark,Import Quantity,Sheep,2007,Head,205,Official figure,DK
+98,392,Crops and livestock products,Denmark,Import Quantity,Sheep,2008,Head,0,Unofficial figure,DK
+99,393,Crops and livestock products,Denmark,Import Quantity,Sheep,2009,Head,162,Official figure,DK
+100,394,Crops and livestock products,Denmark,Import Quantity,Sheep,2010,Head,0,Unofficial figure,DK
+101,395,Crops and livestock products,Denmark,Import Quantity,Sheep,2011,Head,3929,Official figure,DK
+102,396,Crops and livestock products,Denmark,Import Quantity,Sheep,2012,Head,2645,Official figure,DK
+103,397,Crops and livestock products,Denmark,Import Quantity,Sheep,2013,Head,0,Unofficial figure,DK
+104,398,Crops and livestock products,Denmark,Import Quantity,Sheep,2016,Head,7,Official figure,DK
+105,399,Crops and livestock products,Denmark,Import Quantity,Sheep,2018,Head,34,Official figure,DK
+106,400,Crops and livestock products,Denmark,Import Value,Sheep,2006,1000 US$,0,Estimated value,DK
+107,401,Crops and livestock products,Denmark,Import Value,Sheep,2007,1000 US$,84,Official figure,DK
+108,402,Crops and livestock products,Denmark,Import Value,Sheep,2008,1000 US$,0,Unofficial figure,DK
+109,403,Crops and livestock products,Denmark,Import Value,Sheep,2009,1000 US$,32,Official figure,DK
+110,404,Crops and livestock products,Denmark,Import Value,Sheep,2010,1000 US$,0,Unofficial figure,DK
+111,405,Crops and livestock products,Denmark,Import Value,Sheep,2011,1000 US$,600,Official figure,DK
+112,406,Crops and livestock products,Denmark,Import Value,Sheep,2012,1000 US$,307,Official figure,DK
+113,407,Crops and livestock products,Denmark,Import Value,Sheep,2013,1000 US$,0,Unofficial figure,DK
+114,408,Crops and livestock products,Denmark,Import Value,Sheep,2016,1000 US$,1,Official figure,DK
+115,409,Crops and livestock products,Denmark,Import Value,Sheep,2018,1000 US$,7,Official figure,DK
+116,458,Crops and livestock products,Finland,Import Quantity,Cattle,2006,Head,265,Official figure,FI
+117,459,Crops and livestock products,Finland,Import Quantity,Cattle,2007,Head,127,Official figure,FI
+118,460,Crops and livestock products,Finland,Import Quantity,Cattle,2008,Head,0,Unofficial figure,FI
+119,461,Crops and livestock products,Finland,Import Quantity,Cattle,2009,Head,0,Estimated value,FI
+120,462,Crops and livestock products,Finland,Import Quantity,Cattle,2010,Head,0,Estimated value,FI
+121,463,Crops and livestock products,Finland,Import Quantity,Cattle,2011,Head,0,Estimated value,FI
+122,464,Crops and livestock products,Finland,Import Quantity,Cattle,2012,Head,3,Official figure,FI
+123,465,Crops and livestock products,Finland,Import Quantity,Cattle,2013,Head,0,Unofficial figure,FI
+124,466,Crops and livestock products,Finland,Import Quantity,Cattle,2021,Head,5,Official figure,FI
+125,467,Crops and livestock products,Finland,Import Value,Cattle,2006,1000 US$,603,Official figure,FI
+126,468,Crops and livestock products,Finland,Import Value,Cattle,2007,1000 US$,397,Official figure,FI
+127,469,Crops and livestock products,Finland,Import Value,Cattle,2008,1000 US$,0,Unofficial figure,FI
+128,470,Crops and livestock products,Finland,Import Value,Cattle,2009,1000 US$,0,Estimated value,FI
+129,471,Crops and livestock products,Finland,Import Value,Cattle,2010,1000 US$,0,Estimated value,FI
+130,472,Crops and livestock products,Finland,Import Value,Cattle,2011,1000 US$,0,Estimated value,FI
+131,473,Crops and livestock products,Finland,Import Value,Cattle,2012,1000 US$,6,Official figure,FI
+132,474,Crops and livestock products,Finland,Import Value,Cattle,2013,1000 US$,0,Unofficial figure,FI
+133,475,Crops and livestock products,Finland,Import Value,Cattle,2021,1000 US$,34,Official figure,FI
+134,476,Crops and livestock products,Finland,Import Quantity,Sheep,2006,Head,0,Estimated value,FI
+135,477,Crops and livestock products,Finland,Import Quantity,Sheep,2007,Head,1,Official figure,FI
+136,478,Crops and livestock products,Finland,Import Quantity,Sheep,2008,Head,22,Official figure,FI
+137,479,Crops and livestock products,Finland,Import Quantity,Sheep,2009,Head,0,Unofficial figure,FI
+138,480,Crops and livestock products,Finland,Import Quantity,Sheep,2010,Head,0,Estimated value,FI
+139,481,Crops and livestock products,Finland,Import Quantity,Sheep,2011,Head,0,Estimated value,FI
+140,482,Crops and livestock products,Finland,Import Quantity,Sheep,2012,Head,12,Official figure,FI
+141,483,Crops and livestock products,Finland,Import Quantity,Sheep,2013,Head,4,Official figure,FI
+142,484,Crops and livestock products,Finland,Import Quantity,Sheep,2014,Head,30,Official figure,FI
+143,485,Crops and livestock products,Finland,Import Quantity,Sheep,2016,Head,5,Official figure,FI
+144,486,Crops and livestock products,Finland,Import Quantity,Sheep,2019,Head,8,Official figure,FI
+145,487,Crops and livestock products,Finland,Import Value,Sheep,2006,1000 US$,0,Estimated value,FI
+146,488,Crops and livestock products,Finland,Import Value,Sheep,2007,1000 US$,3,Official figure,FI
+147,489,Crops and livestock products,Finland,Import Value,Sheep,2008,1000 US$,7,Official figure,FI
+148,490,Crops and livestock products,Finland,Import Value,Sheep,2009,1000 US$,0,Unofficial figure,FI
+149,491,Crops and livestock products,Finland,Import Value,Sheep,2010,1000 US$,0,Estimated value,FI
+150,492,Crops and livestock products,Finland,Import Value,Sheep,2011,1000 US$,0,Estimated value,FI
+151,493,Crops and livestock products,Finland,Import Value,Sheep,2012,1000 US$,3,Official figure,FI
+152,494,Crops and livestock products,Finland,Import Value,Sheep,2013,1000 US$,8,Official figure,FI
+153,495,Crops and livestock products,Finland,Import Value,Sheep,2014,1000 US$,30,Official figure,FI
+154,496,Crops and livestock products,Finland,Import Value,Sheep,2016,1000 US$,3,Official figure,FI
+155,497,Crops and livestock products,Finland,Import Value,Sheep,2019,1000 US$,14,Official figure,FI
+156,754,Crops and livestock products,Ireland,Import Quantity,Cattle,2006,Head,372,Official figure,IE
+157,755,Crops and livestock products,Ireland,Import Quantity,Cattle,2007,Head,767,Official figure,IE
+158,756,Crops and livestock products,Ireland,Import Quantity,Cattle,2008,Head,90,Official figure,IE
+159,757,Crops and livestock products,Ireland,Import Quantity,Cattle,2009,Head,38,Unofficial figure,IE
+160,758,Crops and livestock products,Ireland,Import Quantity,Cattle,2010,Head,98,Official figure,IE
+161,759,Crops and livestock products,Ireland,Import Quantity,Cattle,2011,Head,1017,Unofficial figure,IE
+162,760,Crops and livestock products,Ireland,Import Quantity,Cattle,2012,Head,4055,Unofficial figure,IE
+163,761,Crops and livestock products,Ireland,Import Quantity,Cattle,2013,Head,2791,Official figure,IE
+164,762,Crops and livestock products,Ireland,Import Quantity,Cattle,2014,Head,2174,Official figure,IE
+165,763,Crops and livestock products,Ireland,Import Quantity,Cattle,2015,Head,8338,Official figure,IE
+166,764,Crops and livestock products,Ireland,Import Quantity,Cattle,2016,Head,6494,Official figure,IE
+167,765,Crops and livestock products,Ireland,Import Quantity,Cattle,2017,Head,5862,Official figure,IE
+168,766,Crops and livestock products,Ireland,Import Quantity,Cattle,2018,Head,7811,Official figure,IE
+169,767,Crops and livestock products,Ireland,Import Quantity,Cattle,2019,Head,16376,Imputed value,IE
+170,768,Crops and livestock products,Ireland,Import Quantity,Cattle,2020,Head,13907,Official figure,IE
+171,769,Crops and livestock products,Ireland,Import Quantity,Cattle,2021,Head,23056,Official figure,IE
+172,770,Crops and livestock products,Ireland,Import Value,Cattle,2006,1000 US$,582,Official figure,IE
+173,771,Crops and livestock products,Ireland,Import Value,Cattle,2007,1000 US$,1409,Official figure,IE
+174,772,Crops and livestock products,Ireland,Import Value,Cattle,2008,1000 US$,321,Official figure,IE
+175,773,Crops and livestock products,Ireland,Import Value,Cattle,2009,1000 US$,226,Official figure,IE
+176,774,Crops and livestock products,Ireland,Import Value,Cattle,2010,1000 US$,442,Official figure,IE
+177,775,Crops and livestock products,Ireland,Import Value,Cattle,2011,1000 US$,1259,Official figure,IE
+178,776,Crops and livestock products,Ireland,Import Value,Cattle,2012,1000 US$,5183,Official figure,IE
+179,777,Crops and livestock products,Ireland,Import Value,Cattle,2013,1000 US$,2721,Official figure,IE
+180,778,Crops and livestock products,Ireland,Import Value,Cattle,2014,1000 US$,226,Official figure,IE
+181,779,Crops and livestock products,Ireland,Import Value,Cattle,2015,1000 US$,1021,Official figure,IE
+182,780,Crops and livestock products,Ireland,Import Value,Cattle,2016,1000 US$,787,Official figure,IE
+183,781,Crops and livestock products,Ireland,Import Value,Cattle,2017,1000 US$,927,Official figure,IE
+184,782,Crops and livestock products,Ireland,Import Value,Cattle,2018,1000 US$,1750,Official figure,IE
+185,783,Crops and livestock products,Ireland,Import Value,Cattle,2019,1000 US$,4073,Official figure,IE
+186,784,Crops and livestock products,Ireland,Import Value,Cattle,2020,1000 US$,11952,Official figure,IE
+187,785,Crops and livestock products,Ireland,Import Value,Cattle,2021,1000 US$,5883,Official figure,IE
+188,786,Crops and livestock products,Ireland,Import Quantity,Sheep,2006,Head,16212,Official figure,IE
+189,787,Crops and livestock products,Ireland,Import Quantity,Sheep,2007,Head,23707,Official figure,IE
+190,788,Crops and livestock products,Ireland,Import Quantity,Sheep,2008,Head,43554,Official figure,IE
+191,789,Crops and livestock products,Ireland,Import Quantity,Sheep,2009,Head,28964,Official figure,IE
+192,790,Crops and livestock products,Ireland,Import Quantity,Sheep,2010,Head,31006,Official figure,IE
+193,791,Crops and livestock products,Ireland,Import Quantity,Sheep,2011,Head,18372,Official figure,IE
+194,792,Crops and livestock products,Ireland,Import Quantity,Sheep,2012,Head,222913,Official figure,IE
+195,793,Crops and livestock products,Ireland,Import Quantity,Sheep,2013,Head,71284,Official figure,IE
+196,794,Crops and livestock products,Ireland,Import Quantity,Sheep,2014,Head,18758,Official figure,IE
+197,795,Crops and livestock products,Ireland,Import Quantity,Sheep,2015,Head,12157,Official figure,IE
+198,796,Crops and livestock products,Ireland,Import Quantity,Sheep,2016,Head,19543,Official figure,IE
+199,797,Crops and livestock products,Ireland,Import Quantity,Sheep,2017,Head,17889,Official figure,IE
+200,798,Crops and livestock products,Ireland,Import Quantity,Sheep,2018,Head,19232,Official figure,IE
+201,799,Crops and livestock products,Ireland,Import Quantity,Sheep,2019,Head,16831,Official figure,IE
+202,800,Crops and livestock products,Ireland,Import Quantity,Sheep,2020,Head,363075,Official figure,IE
+203,801,Crops and livestock products,Ireland,Import Quantity,Sheep,2021,Head,317112,Official figure,IE
+204,802,Crops and livestock products,Ireland,Import Value,Sheep,2006,1000 US$,2943,Official figure,IE
+205,803,Crops and livestock products,Ireland,Import Value,Sheep,2007,1000 US$,2496,Official figure,IE
+206,804,Crops and livestock products,Ireland,Import Value,Sheep,2008,1000 US$,5990,Official figure,IE
+207,805,Crops and livestock products,Ireland,Import Value,Sheep,2009,1000 US$,3099,Official figure,IE
+208,806,Crops and livestock products,Ireland,Import Value,Sheep,2010,1000 US$,3910,Official figure,IE
+209,807,Crops and livestock products,Ireland,Import Value,Sheep,2011,1000 US$,2707,Official figure,IE
+210,808,Crops and livestock products,Ireland,Import Value,Sheep,2012,1000 US$,17554,Official figure,IE
+211,809,Crops and livestock products,Ireland,Import Value,Sheep,2013,1000 US$,14171,Official figure,IE
+212,810,Crops and livestock products,Ireland,Import Value,Sheep,2014,1000 US$,2136,Official figure,IE
+213,811,Crops and livestock products,Ireland,Import Value,Sheep,2015,1000 US$,1185,Official figure,IE
+214,812,Crops and livestock products,Ireland,Import Value,Sheep,2016,1000 US$,1870,Official figure,IE
+215,813,Crops and livestock products,Ireland,Import Value,Sheep,2017,1000 US$,1605,Official figure,IE
+216,814,Crops and livestock products,Ireland,Import Value,Sheep,2018,1000 US$,1809,Official figure,IE
+217,815,Crops and livestock products,Ireland,Import Value,Sheep,2019,1000 US$,1603,Official figure,IE
+218,816,Crops and livestock products,Ireland,Import Value,Sheep,2020,1000 US$,44250,Official figure,IE
+219,817,Crops and livestock products,Ireland,Import Value,Sheep,2021,1000 US$,48356,Official figure,IE
+220,192,Crops and livestock products,Croatia,Export Quantity,Cattle,2006,Head,3285,Official figure,HR
+221,193,Crops and livestock products,Croatia,Export Quantity,Cattle,2007,Head,14895,Official figure,HR
+222,194,Crops and livestock products,Croatia,Export Quantity,Cattle,2008,Head,15566,Official figure,HR
+223,195,Crops and livestock products,Croatia,Export Quantity,Cattle,2009,Head,4545,Official figure,HR
+224,196,Crops and livestock products,Croatia,Export Quantity,Cattle,2010,Head,9496,Official figure,HR
+225,197,Crops and livestock products,Croatia,Export Quantity,Cattle,2011,Head,28562,Official figure,HR
+226,198,Crops and livestock products,Croatia,Export Quantity,Cattle,2012,Head,33055,Official figure,HR
+227,199,Crops and livestock products,Croatia,Export Quantity,Cattle,2013,Head,29577,Official figure,HR
+228,200,Crops and livestock products,Croatia,Export Quantity,Cattle,2014,Head,41927,Official figure,HR
+229,201,Crops and livestock products,Croatia,Export Quantity,Cattle,2015,Head,66312,Official figure,HR
+230,202,Crops and livestock products,Croatia,Export Quantity,Cattle,2016,Head,121766,Official figure,HR
+231,203,Crops and livestock products,Croatia,Export Quantity,Cattle,2017,Head,133977,Official figure,HR
+232,204,Crops and livestock products,Croatia,Export Quantity,Cattle,2018,Head,152172,Official figure,HR
+233,205,Crops and livestock products,Croatia,Export Quantity,Cattle,2019,Head,98759,Official figure,HR
+234,206,Crops and livestock products,Croatia,Export Quantity,Cattle,2020,Head,124610,Official figure,HR
+235,207,Crops and livestock products,Croatia,Export Quantity,Cattle,2021,Head,138444,Official figure,HR
+236,208,Crops and livestock products,Croatia,Export Value,Cattle,2006,1000 US$,3002,Official figure,HR
+237,209,Crops and livestock products,Croatia,Export Value,Cattle,2007,1000 US$,11959,Official figure,HR
+238,210,Crops and livestock products,Croatia,Export Value,Cattle,2008,1000 US$,14151,Official figure,HR
+239,211,Crops and livestock products,Croatia,Export Value,Cattle,2009,1000 US$,3674,Official figure,HR
+240,212,Crops and livestock products,Croatia,Export Value,Cattle,2010,1000 US$,14550,Official figure,HR
+241,213,Crops and livestock products,Croatia,Export Value,Cattle,2011,1000 US$,38677,Official figure,HR
+242,214,Crops and livestock products,Croatia,Export Value,Cattle,2012,1000 US$,39685,Official figure,HR
+243,215,Crops and livestock products,Croatia,Export Value,Cattle,2013,1000 US$,41278,Official figure,HR
+244,216,Crops and livestock products,Croatia,Export Value,Cattle,2014,1000 US$,52244,Official figure,HR
+245,217,Crops and livestock products,Croatia,Export Value,Cattle,2015,1000 US$,80269,Official figure,HR
+246,218,Crops and livestock products,Croatia,Export Value,Cattle,2016,1000 US$,143703,Official figure,HR
+247,219,Crops and livestock products,Croatia,Export Value,Cattle,2017,1000 US$,156613,Official figure,HR
+248,220,Crops and livestock products,Croatia,Export Value,Cattle,2018,1000 US$,197318,Official figure,HR
+249,221,Crops and livestock products,Croatia,Export Value,Cattle,2019,1000 US$,100527,Official figure,HR
+250,222,Crops and livestock products,Croatia,Export Value,Cattle,2020,1000 US$,135127,Official figure,HR
+251,223,Crops and livestock products,Croatia,Export Value,Cattle,2021,1000 US$,173164,Official figure,HR
+252,224,Crops and livestock products,Croatia,Export Quantity,Sheep,2006,Head,68,Official figure,HR
+253,225,Crops and livestock products,Croatia,Export Quantity,Sheep,2007,Head,331,Official figure,HR
+254,226,Crops and livestock products,Croatia,Export Quantity,Sheep,2008,Head,0,Unofficial figure,HR
+255,227,Crops and livestock products,Croatia,Export Quantity,Sheep,2009,Head,5,Official figure,HR
+256,228,Crops and livestock products,Croatia,Export Quantity,Sheep,2010,Head,510,Official figure,HR
+257,229,Crops and livestock products,Croatia,Export Quantity,Sheep,2011,Head,348,Official figure,HR
+258,230,Crops and livestock products,Croatia,Export Quantity,Sheep,2012,Head,1428,Official figure,HR
+259,231,Crops and livestock products,Croatia,Export Quantity,Sheep,2013,Head,2667,Official figure,HR
+260,232,Crops and livestock products,Croatia,Export Quantity,Sheep,2014,Head,12515,Official figure,HR
+261,233,Crops and livestock products,Croatia,Export Quantity,Sheep,2015,Head,24190,Official figure,HR
+262,234,Crops and livestock products,Croatia,Export Quantity,Sheep,2016,Head,54362,Official figure,HR
+263,235,Crops and livestock products,Croatia,Export Quantity,Sheep,2017,Head,92478,Official figure,HR
+264,236,Crops and livestock products,Croatia,Export Quantity,Sheep,2018,Head,92468,Official figure,HR
+265,237,Crops and livestock products,Croatia,Export Quantity,Sheep,2019,Head,51176,Official figure,HR
+266,238,Crops and livestock products,Croatia,Export Quantity,Sheep,2020,Head,62808,Official figure,HR
+267,239,Crops and livestock products,Croatia,Export Quantity,Sheep,2021,Head,51362,Official figure,HR
+268,240,Crops and livestock products,Croatia,Export Value,Sheep,2006,1000 US$,6,Official figure,HR
+269,241,Crops and livestock products,Croatia,Export Value,Sheep,2007,1000 US$,34,Official figure,HR
+270,242,Crops and livestock products,Croatia,Export Value,Sheep,2008,1000 US$,0,Unofficial figure,HR
+271,243,Crops and livestock products,Croatia,Export Value,Sheep,2009,1000 US$,3,Official figure,HR
+272,244,Crops and livestock products,Croatia,Export Value,Sheep,2010,1000 US$,37,Official figure,HR
+273,245,Crops and livestock products,Croatia,Export Value,Sheep,2011,1000 US$,49,Official figure,HR
+274,246,Crops and livestock products,Croatia,Export Value,Sheep,2012,1000 US$,291,Official figure,HR
+275,247,Crops and livestock products,Croatia,Export Value,Sheep,2013,1000 US$,611,Official figure,HR
+276,248,Crops and livestock products,Croatia,Export Value,Sheep,2014,1000 US$,1781,Official figure,HR
+277,249,Crops and livestock products,Croatia,Export Value,Sheep,2015,1000 US$,2910,Official figure,HR
+278,250,Crops and livestock products,Croatia,Export Value,Sheep,2016,1000 US$,5668,Official figure,HR
+279,251,Crops and livestock products,Croatia,Export Value,Sheep,2017,1000 US$,10604,Official figure,HR
+280,252,Crops and livestock products,Croatia,Export Value,Sheep,2018,1000 US$,11269,Official figure,HR
+281,253,Crops and livestock products,Croatia,Export Value,Sheep,2019,1000 US$,5143,Official figure,HR
+282,254,Crops and livestock products,Croatia,Export Value,Sheep,2020,1000 US$,7399,Official figure,HR
+283,255,Crops and livestock products,Croatia,Export Value,Sheep,2021,1000 US$,7525,Official figure,HR
+284,372,Crops and livestock products,Denmark,Export Quantity,Cattle,2006,Head,12688,Official figure,DK
+285,373,Crops and livestock products,Denmark,Export Quantity,Cattle,2007,Head,9169,Unofficial figure,DK
+286,374,Crops and livestock products,Denmark,Export Quantity,Cattle,2008,Head,4869,Official figure,DK
+287,375,Crops and livestock products,Denmark,Export Quantity,Cattle,2009,Head,10678,Official figure,DK
+288,376,Crops and livestock products,Denmark,Export Quantity,Cattle,2010,Head,14833,Official figure,DK
+289,377,Crops and livestock products,Denmark,Export Quantity,Cattle,2011,Head,28193,Official figure,DK
+290,378,Crops and livestock products,Denmark,Export Quantity,Cattle,2012,Head,56176,Official figure,DK
+291,379,Crops and livestock products,Denmark,Export Quantity,Cattle,2013,Head,60555,Official figure,DK
+292,380,Crops and livestock products,Denmark,Export Quantity,Cattle,2014,Head,70002,Official figure,DK
+293,381,Crops and livestock products,Denmark,Export Quantity,Cattle,2015,Head,60832,Official figure,DK
+294,382,Crops and livestock products,Denmark,Export Quantity,Cattle,2016,Head,81292,Official figure,DK
+295,383,Crops and livestock products,Denmark,Export Quantity,Cattle,2017,Head,89171,Official figure,DK
+296,384,Crops and livestock products,Denmark,Export Quantity,Cattle,2018,Head,98579,Official figure,DK
+297,385,Crops and livestock products,Denmark,Export Quantity,Cattle,2019,Head,117808,Official figure,DK
+298,386,Crops and livestock products,Denmark,Export Quantity,Cattle,2020,Head,97550,Official figure,DK
+299,387,Crops and livestock products,Denmark,Export Quantity,Cattle,2021,Head,77958,Official figure,DK
+300,388,Crops and livestock products,Denmark,Export Value,Cattle,2006,1000 US$,16962,Official figure,DK
+301,389,Crops and livestock products,Denmark,Export Value,Cattle,2007,1000 US$,21100,Official figure,DK
+302,390,Crops and livestock products,Denmark,Export Value,Cattle,2008,1000 US$,7613,Official figure,DK
+303,391,Crops and livestock products,Denmark,Export Value,Cattle,2009,1000 US$,5621,Official figure,DK
+304,392,Crops and livestock products,Denmark,Export Value,Cattle,2010,1000 US$,6636,Official figure,DK
+305,393,Crops and livestock products,Denmark,Export Value,Cattle,2011,1000 US$,24733,Official figure,DK
+306,394,Crops and livestock products,Denmark,Export Value,Cattle,2012,1000 US$,55542,Official figure,DK
+307,395,Crops and livestock products,Denmark,Export Value,Cattle,2013,1000 US$,49320,Official figure,DK
+308,396,Crops and livestock products,Denmark,Export Value,Cattle,2014,1000 US$,66744,Official figure,DK
+309,397,Crops and livestock products,Denmark,Export Value,Cattle,2015,1000 US$,51523,Official figure,DK
+310,398,Crops and livestock products,Denmark,Export Value,Cattle,2016,1000 US$,47351,Official figure,DK
+311,399,Crops and livestock products,Denmark,Export Value,Cattle,2017,1000 US$,76079,Official figure,DK
+312,400,Crops and livestock products,Denmark,Export Value,Cattle,2018,1000 US$,80492,Official figure,DK
+313,401,Crops and livestock products,Denmark,Export Value,Cattle,2019,1000 US$,109072,Official figure,DK
+314,402,Crops and livestock products,Denmark,Export Value,Cattle,2020,1000 US$,87542,Official figure,DK
+315,403,Crops and livestock products,Denmark,Export Value,Cattle,2021,1000 US$,84451,Official figure,DK
+316,404,Crops and livestock products,Denmark,Export Quantity,Sheep,2006,Head,2071,Official figure,DK
+317,405,Crops and livestock products,Denmark,Export Quantity,Sheep,2007,Head,1587,Official figure,DK
+318,406,Crops and livestock products,Denmark,Export Quantity,Sheep,2008,Head,38,Official figure,DK
+319,407,Crops and livestock products,Denmark,Export Quantity,Sheep,2009,Head,197,Official figure,DK
+320,408,Crops and livestock products,Denmark,Export Quantity,Sheep,2010,Head,0,Unofficial figure,DK
+321,409,Crops and livestock products,Denmark,Export Quantity,Sheep,2011,Head,0,Estimated value,DK
+322,410,Crops and livestock products,Denmark,Export Quantity,Sheep,2012,Head,45,Official figure,DK
+323,411,Crops and livestock products,Denmark,Export Quantity,Sheep,2013,Head,1,Unofficial figure,DK
+324,412,Crops and livestock products,Denmark,Export Quantity,Sheep,2014,Head,46,Official figure,DK
+325,413,Crops and livestock products,Denmark,Export Quantity,Sheep,2015,Head,5500,Official figure,DK
+326,414,Crops and livestock products,Denmark,Export Quantity,Sheep,2017,Head,568,Official figure,DK
+327,415,Crops and livestock products,Denmark,Export Quantity,Sheep,2018,Head,1057,Official figure,DK
+328,416,Crops and livestock products,Denmark,Export Quantity,Sheep,2019,Head,756,Official figure,DK
+329,417,Crops and livestock products,Denmark,Export Value,Sheep,2006,1000 US$,219,Official figure,DK
+330,418,Crops and livestock products,Denmark,Export Value,Sheep,2007,1000 US$,209,Official figure,DK
+331,419,Crops and livestock products,Denmark,Export Value,Sheep,2008,1000 US$,42,Official figure,DK
+332,420,Crops and livestock products,Denmark,Export Value,Sheep,2009,1000 US$,67,Official figure,DK
+333,421,Crops and livestock products,Denmark,Export Value,Sheep,2010,1000 US$,0,Unofficial figure,DK
+334,422,Crops and livestock products,Denmark,Export Value,Sheep,2011,1000 US$,0,Estimated value,DK
+335,423,Crops and livestock products,Denmark,Export Value,Sheep,2012,1000 US$,27,Official figure,DK
+336,424,Crops and livestock products,Denmark,Export Value,Sheep,2013,1000 US$,0,Official figure,DK
+337,425,Crops and livestock products,Denmark,Export Value,Sheep,2014,1000 US$,27,Official figure,DK
+338,426,Crops and livestock products,Denmark,Export Value,Sheep,2015,1000 US$,219,Official figure,DK
+339,427,Crops and livestock products,Denmark,Export Value,Sheep,2017,1000 US$,141,Official figure,DK
+340,428,Crops and livestock products,Denmark,Export Value,Sheep,2018,1000 US$,99,Official figure,DK
+341,429,Crops and livestock products,Denmark,Export Value,Sheep,2019,1000 US$,79,Official figure,DK
+342,494,Crops and livestock products,Finland,Export Quantity,Cattle,2006,Head,300,Official figure,FI
+343,495,Crops and livestock products,Finland,Export Quantity,Cattle,2007,Head,806,Official figure,FI
+344,496,Crops and livestock products,Finland,Export Quantity,Cattle,2008,Head,509,Official figure,FI
+345,497,Crops and livestock products,Finland,Export Quantity,Cattle,2009,Head,832,Unofficial figure,FI
+346,498,Crops and livestock products,Finland,Export Quantity,Cattle,2010,Head,670,Official figure,FI
+347,499,Crops and livestock products,Finland,Export Quantity,Cattle,2011,Head,1144,Official figure,FI
+348,500,Crops and livestock products,Finland,Export Quantity,Cattle,2012,Head,1240,Official figure,FI
+349,501,Crops and livestock products,Finland,Export Quantity,Cattle,2013,Head,4,Official figure,FI
+350,502,Crops and livestock products,Finland,Export Quantity,Cattle,2014,Head,405,Official figure,FI
+351,503,Crops and livestock products,Finland,Export Quantity,Cattle,2015,Head,950,Official figure,FI
+352,504,Crops and livestock products,Finland,Export Quantity,Cattle,2016,Head,510,Official figure,FI
+353,505,Crops and livestock products,Finland,Export Quantity,Cattle,2017,Head,441,Official figure,FI
+354,506,Crops and livestock products,Finland,Export Quantity,Cattle,2018,Head,112,Official figure,FI
+355,507,Crops and livestock products,Finland,Export Quantity,Cattle,2019,Head,66,Official figure,FI
+356,508,Crops and livestock products,Finland,Export Quantity,Cattle,2020,Head,100,Official figure,FI
+357,509,Crops and livestock products,Finland,Export Value,Cattle,2006,1000 US$,469,Official figure,FI
+358,510,Crops and livestock products,Finland,Export Value,Cattle,2007,1000 US$,1843,Official figure,FI
+359,511,Crops and livestock products,Finland,Export Value,Cattle,2008,1000 US$,1316,Official figure,FI
+360,512,Crops and livestock products,Finland,Export Value,Cattle,2009,1000 US$,2536,Official figure,FI
+361,513,Crops and livestock products,Finland,Export Value,Cattle,2010,1000 US$,2331,Official figure,FI
+362,514,Crops and livestock products,Finland,Export Value,Cattle,2011,1000 US$,3976,Official figure,FI
+363,515,Crops and livestock products,Finland,Export Value,Cattle,2012,1000 US$,4207,Official figure,FI
+364,516,Crops and livestock products,Finland,Export Value,Cattle,2013,1000 US$,26,Official figure,FI
+365,517,Crops and livestock products,Finland,Export Value,Cattle,2014,1000 US$,1380,Official figure,FI
+366,518,Crops and livestock products,Finland,Export Value,Cattle,2015,1000 US$,2634,Official figure,FI
+367,519,Crops and livestock products,Finland,Export Value,Cattle,2016,1000 US$,1249,Official figure,FI
+368,520,Crops and livestock products,Finland,Export Value,Cattle,2017,1000 US$,1044,Official figure,FI
+369,521,Crops and livestock products,Finland,Export Value,Cattle,2018,1000 US$,322,Official figure,FI
+370,522,Crops and livestock products,Finland,Export Value,Cattle,2019,1000 US$,191,Official figure,FI
+371,523,Crops and livestock products,Finland,Export Value,Cattle,2020,1000 US$,245,Official figure,FI
+372,524,Crops and livestock products,Finland,Export Quantity,Sheep,2006,Head,0,Estimated value,FI
+373,525,Crops and livestock products,Finland,Export Quantity,Sheep,2007,Head,0,Estimated value,FI
+374,526,Crops and livestock products,Finland,Export Quantity,Sheep,2008,Head,0,Estimated value,FI
+375,527,Crops and livestock products,Finland,Export Quantity,Sheep,2009,Head,0,Estimated value,FI
+376,528,Crops and livestock products,Finland,Export Quantity,Sheep,2010,Head,0,Estimated value,FI
+377,529,Crops and livestock products,Finland,Export Quantity,Sheep,2011,Head,0,Estimated value,FI
+378,530,Crops and livestock products,Finland,Export Quantity,Sheep,2012,Head,0,Estimated value,FI
+379,531,Crops and livestock products,Finland,Export Quantity,Sheep,2013,Head,0,Estimated value,FI
+380,532,Crops and livestock products,Finland,Export Quantity,Sheep,2020,Head,177,Official figure,FI
+381,533,Crops and livestock products,Finland,Export Value,Sheep,2006,1000 US$,0,Estimated value,FI
+382,534,Crops and livestock products,Finland,Export Value,Sheep,2007,1000 US$,0,Estimated value,FI
+383,535,Crops and livestock products,Finland,Export Value,Sheep,2008,1000 US$,0,Estimated value,FI
+384,536,Crops and livestock products,Finland,Export Value,Sheep,2009,1000 US$,0,Estimated value,FI
+385,537,Crops and livestock products,Finland,Export Value,Sheep,2010,1000 US$,0,Estimated value,FI
+386,538,Crops and livestock products,Finland,Export Value,Sheep,2011,1000 US$,0,Estimated value,FI
+387,539,Crops and livestock products,Finland,Export Value,Sheep,2012,1000 US$,0,Estimated value,FI
+388,540,Crops and livestock products,Finland,Export Value,Sheep,2013,1000 US$,0,Estimated value,FI
+389,541,Crops and livestock products,Finland,Export Value,Sheep,2020,1000 US$,92,Official figure,FI
+390,798,Crops and livestock products,Ireland,Export Quantity,Cattle,2006,Head,107291,Official figure,IE
+391,799,Crops and livestock products,Ireland,Export Quantity,Cattle,2007,Head,154417,Unofficial figure,IE
+392,800,Crops and livestock products,Ireland,Export Quantity,Cattle,2008,Head,129876,Official figure,IE
+393,801,Crops and livestock products,Ireland,Export Quantity,Cattle,2009,Head,188723,Official figure,IE
+394,802,Crops and livestock products,Ireland,Export Quantity,Cattle,2010,Head,271663,Unofficial figure,IE
+395,803,Crops and livestock products,Ireland,Export Quantity,Cattle,2011,Head,184630,Unofficial figure,IE
+396,804,Crops and livestock products,Ireland,Export Quantity,Cattle,2012,Head,130578,Official figure,IE
+397,805,Crops and livestock products,Ireland,Export Quantity,Cattle,2013,Head,192352,Official figure,IE
+398,806,Crops and livestock products,Ireland,Export Quantity,Cattle,2014,Head,205866,Official figure,IE
+399,807,Crops and livestock products,Ireland,Export Quantity,Cattle,2015,Head,148454,Official figure,IE
+400,808,Crops and livestock products,Ireland,Export Quantity,Cattle,2016,Head,123727,Official figure,IE
+401,809,Crops and livestock products,Ireland,Export Quantity,Cattle,2017,Head,150293,Official figure,IE
+402,810,Crops and livestock products,Ireland,Export Quantity,Cattle,2018,Head,188065,Official figure,IE
+403,811,Crops and livestock products,Ireland,Export Quantity,Cattle,2019,Head,235879,Official figure,IE
+404,812,Crops and livestock products,Ireland,Export Quantity,Cattle,2020,Head,291373,Official figure,IE
+405,813,Crops and livestock products,Ireland,Export Quantity,Cattle,2021,Head,213348,Official figure,IE
+406,814,Crops and livestock products,Ireland,Export Value,Cattle,2006,1000 US$,100128,Official figure,IE
+407,815,Crops and livestock products,Ireland,Export Value,Cattle,2007,1000 US$,126829,Official figure,IE
+408,816,Crops and livestock products,Ireland,Export Value,Cattle,2008,1000 US$,124043,Official figure,IE
+409,817,Crops and livestock products,Ireland,Export Value,Cattle,2009,1000 US$,166581,Official figure,IE
+410,818,Crops and livestock products,Ireland,Export Value,Cattle,2010,1000 US$,192881,Official figure,IE
+411,819,Crops and livestock products,Ireland,Export Value,Cattle,2011,1000 US$,180423,Official figure,IE
+412,820,Crops and livestock products,Ireland,Export Value,Cattle,2012,1000 US$,161982,Official figure,IE
+413,821,Crops and livestock products,Ireland,Export Value,Cattle,2013,1000 US$,156314,Official figure,IE
+414,822,Crops and livestock products,Ireland,Export Value,Cattle,2014,1000 US$,167563,Official figure,IE
+415,823,Crops and livestock products,Ireland,Export Value,Cattle,2015,1000 US$,99553,Official figure,IE
+416,824,Crops and livestock products,Ireland,Export Value,Cattle,2016,1000 US$,75105,Official figure,IE
+417,825,Crops and livestock products,Ireland,Export Value,Cattle,2017,1000 US$,96265,Official figure,IE
+418,826,Crops and livestock products,Ireland,Export Value,Cattle,2018,1000 US$,114435,Official figure,IE
+419,827,Crops and livestock products,Ireland,Export Value,Cattle,2019,1000 US$,124506,Official figure,IE
+420,828,Crops and livestock products,Ireland,Export Value,Cattle,2020,1000 US$,124611,Official figure,IE
+421,829,Crops and livestock products,Ireland,Export Value,Cattle,2021,1000 US$,141461,Official figure,IE
+422,830,Crops and livestock products,Ireland,Export Quantity,Sheep,2006,Head,144638,Official figure,IE
+423,831,Crops and livestock products,Ireland,Export Quantity,Sheep,2007,Head,68003,Official figure,IE
+424,832,Crops and livestock products,Ireland,Export Quantity,Sheep,2008,Head,67408,Official figure,IE
+425,833,Crops and livestock products,Ireland,Export Quantity,Sheep,2009,Head,91755,Official figure,IE
+426,834,Crops and livestock products,Ireland,Export Quantity,Sheep,2010,Head,37090,Official figure,IE
+427,835,Crops and livestock products,Ireland,Export Quantity,Sheep,2011,Head,18711,Official figure,IE
+428,836,Crops and livestock products,Ireland,Export Quantity,Sheep,2012,Head,30528,Official figure,IE
+429,837,Crops and livestock products,Ireland,Export Quantity,Sheep,2013,Head,54197,Official figure,IE
+430,838,Crops and livestock products,Ireland,Export Quantity,Sheep,2014,Head,37646,Official figure,IE
+431,839,Crops and livestock products,Ireland,Export Quantity,Sheep,2015,Head,15036,Official figure,IE
+432,840,Crops and livestock products,Ireland,Export Quantity,Sheep,2016,Head,15657,Official figure,IE
+433,841,Crops and livestock products,Ireland,Export Quantity,Sheep,2017,Head,20834,Official figure,IE
+434,842,Crops and livestock products,Ireland,Export Quantity,Sheep,2018,Head,15958,Official figure,IE
+435,843,Crops and livestock products,Ireland,Export Quantity,Sheep,2019,Head,5331,Official figure,IE
+436,844,Crops and livestock products,Ireland,Export Quantity,Sheep,2020,Head,18605,Official figure,IE
+437,845,Crops and livestock products,Ireland,Export Quantity,Sheep,2021,Head,9641,Official figure,IE
+438,846,Crops and livestock products,Ireland,Export Value,Sheep,2006,1000 US$,15195,Official figure,IE
+439,847,Crops and livestock products,Ireland,Export Value,Sheep,2007,1000 US$,7385,Official figure,IE
+440,848,Crops and livestock products,Ireland,Export Value,Sheep,2008,1000 US$,7840,Official figure,IE
+441,849,Crops and livestock products,Ireland,Export Value,Sheep,2009,1000 US$,11146,Official figure,IE
+442,850,Crops and livestock products,Ireland,Export Value,Sheep,2010,1000 US$,5192,Official figure,IE
+443,851,Crops and livestock products,Ireland,Export Value,Sheep,2011,1000 US$,3153,Official figure,IE
+444,852,Crops and livestock products,Ireland,Export Value,Sheep,2012,1000 US$,4951,Official figure,IE
+445,853,Crops and livestock products,Ireland,Export Value,Sheep,2013,1000 US$,9871,Official figure,IE
+446,854,Crops and livestock products,Ireland,Export Value,Sheep,2014,1000 US$,5955,Official figure,IE
+447,855,Crops and livestock products,Ireland,Export Value,Sheep,2015,1000 US$,2087,Official figure,IE
+448,856,Crops and livestock products,Ireland,Export Value,Sheep,2016,1000 US$,2222,Official figure,IE
+449,857,Crops and livestock products,Ireland,Export Value,Sheep,2017,1000 US$,3042,Official figure,IE
+450,858,Crops and livestock products,Ireland,Export Value,Sheep,2018,1000 US$,2213,Official figure,IE
+451,859,Crops and livestock products,Ireland,Export Value,Sheep,2019,1000 US$,1295,Official figure,IE
+452,860,Crops and livestock products,Ireland,Export Value,Sheep,2020,1000 US$,3091,Official figure,IE
+453,861,Crops and livestock products,Ireland,Export Value,Sheep,2021,1000 US$,1822,Official figure,IE
+0,192,Crops and livestock products,Croatia,Import Quantity,Cattle,2006,Head,162288,Official figure,HR
+1,193,Crops and livestock products,Croatia,Import Quantity,Cattle,2007,Head,144750,Official figure,HR
+2,194,Crops and livestock products,Croatia,Import Quantity,Cattle,2008,Head,155515,Official figure,HR
+3,195,Crops and livestock products,Croatia,Import Quantity,Cattle,2009,Head,138672,Official figure,HR
+4,196,Crops and livestock products,Croatia,Import Quantity,Cattle,2010,Head,140123,Official figure,HR
+5,197,Crops and livestock products,Croatia,Import Quantity,Cattle,2011,Head,151900,Official figure,HR
+6,198,Crops and livestock products,Croatia,Import Quantity,Cattle,2012,Head,120056,Official figure,HR
+7,199,Crops and livestock products,Croatia,Import Quantity,Cattle,2013,Head,212807,Official figure,HR
+8,200,Crops and livestock products,Croatia,Import Quantity,Cattle,2014,Head,94097,Official figure,HR
+9,201,Crops and livestock products,Croatia,Import Quantity,Cattle,2015,Head,116969,Official figure,HR
+10,202,Crops and livestock products,Croatia,Import Quantity,Cattle,2016,Head,115823,Official figure,HR
+11,203,Crops and livestock products,Croatia,Import Quantity,Cattle,2017,Head,137463,Official figure,HR
+12,204,Crops and livestock products,Croatia,Import Quantity,Cattle,2018,Head,133371,Official figure,HR
+13,205,Crops and livestock products,Croatia,Import Quantity,Cattle,2019,Head,147348,Official figure,HR
+14,206,Crops and livestock products,Croatia,Import Quantity,Cattle,2020,Head,141667,Official figure,HR
+15,207,Crops and livestock products,Croatia,Import Quantity,Cattle,2021,Head,168185,Official figure,HR
+16,208,Crops and livestock products,Croatia,Import Value,Cattle,2006,1000 US$,88126,Official figure,HR
+17,209,Crops and livestock products,Croatia,Import Value,Cattle,2007,1000 US$,86958,Official figure,HR
+18,210,Crops and livestock products,Croatia,Import Value,Cattle,2008,1000 US$,106619,Official figure,HR
+19,211,Crops and livestock products,Croatia,Import Value,Cattle,2009,1000 US$,89080,Official figure,HR
+20,212,Crops and livestock products,Croatia,Import Value,Cattle,2010,1000 US$,87283,Official figure,HR
+21,213,Crops and livestock products,Croatia,Import Value,Cattle,2011,1000 US$,113567,Official figure,HR
+22,214,Crops and livestock products,Croatia,Import Value,Cattle,2012,1000 US$,80904,Official figure,HR
+23,215,Crops and livestock products,Croatia,Import Value,Cattle,2013,1000 US$,66595,Official figure,HR
+24,216,Crops and livestock products,Croatia,Import Value,Cattle,2014,1000 US$,70075,Official figure,HR
+25,217,Crops and livestock products,Croatia,Import Value,Cattle,2015,1000 US$,67498,Official figure,HR
+26,218,Crops and livestock products,Croatia,Import Value,Cattle,2016,1000 US$,64629,Official figure,HR
+27,219,Crops and livestock products,Croatia,Import Value,Cattle,2017,1000 US$,84105,Official figure,HR
+28,220,Crops and livestock products,Croatia,Import Value,Cattle,2018,1000 US$,88033,Official figure,HR
+29,221,Crops and livestock products,Croatia,Import Value,Cattle,2019,1000 US$,92644,Official figure,HR
+30,222,Crops and livestock products,Croatia,Import Value,Cattle,2020,1000 US$,90057,Official figure,HR
+31,223,Crops and livestock products,Croatia,Import Value,Cattle,2021,1000 US$,116287,Official figure,HR
+32,224,Crops and livestock products,Croatia,Import Quantity,Sheep,2006,Head,51858,Official figure,HR
+33,225,Crops and livestock products,Croatia,Import Quantity,Sheep,2007,Head,92639,Official figure,HR
+34,226,Crops and livestock products,Croatia,Import Quantity,Sheep,2008,Head,93687,Official figure,HR
+35,227,Crops and livestock products,Croatia,Import Quantity,Sheep,2009,Head,76480,Official figure,HR
+36,228,Crops and livestock products,Croatia,Import Quantity,Sheep,2010,Head,55796,Official figure,HR
+37,229,Crops and livestock products,Croatia,Import Quantity,Sheep,2011,Head,18155,Official figure,HR
+38,230,Crops and livestock products,Croatia,Import Quantity,Sheep,2012,Head,6974,Official figure,HR
+39,231,Crops and livestock products,Croatia,Import Quantity,Sheep,2013,Head,12580,Official figure,HR
+40,232,Crops and livestock products,Croatia,Import Quantity,Sheep,2014,Head,4924,Official figure,HR
+41,233,Crops and livestock products,Croatia,Import Quantity,Sheep,2015,Head,27422,Official figure,HR
+42,234,Crops and livestock products,Croatia,Import Quantity,Sheep,2016,Head,53579,Official figure,HR
+43,235,Crops and livestock products,Croatia,Import Quantity,Sheep,2017,Head,90258,Official figure,HR
+44,236,Crops and livestock products,Croatia,Import Quantity,Sheep,2018,Head,124147,Official figure,HR
+45,237,Crops and livestock products,Croatia,Import Quantity,Sheep,2019,Head,111019,Official figure,HR
+46,238,Crops and livestock products,Croatia,Import Quantity,Sheep,2020,Head,68827,Official figure,HR
+47,239,Crops and livestock products,Croatia,Import Quantity,Sheep,2021,Head,58696,Official figure,HR
+48,240,Crops and livestock products,Croatia,Import Value,Sheep,2006,1000 US$,3315,Official figure,HR
+49,241,Crops and livestock products,Croatia,Import Value,Sheep,2007,1000 US$,6340,Official figure,HR
+50,242,Crops and livestock products,Croatia,Import Value,Sheep,2008,1000 US$,7204,Official figure,HR
+51,243,Crops and livestock products,Croatia,Import Value,Sheep,2009,1000 US$,5808,Official figure,HR
+52,244,Crops and livestock products,Croatia,Import Value,Sheep,2010,1000 US$,3848,Official figure,HR
+53,245,Crops and livestock products,Croatia,Import Value,Sheep,2011,1000 US$,1699,Official figure,HR
+54,246,Crops and livestock products,Croatia,Import Value,Sheep,2012,1000 US$,612,Official figure,HR
+55,247,Crops and livestock products,Croatia,Import Value,Sheep,2013,1000 US$,1021,Official figure,HR
+56,248,Crops and livestock products,Croatia,Import Value,Sheep,2014,1000 US$,452,Official figure,HR
+57,249,Crops and livestock products,Croatia,Import Value,Sheep,2015,1000 US$,1787,Official figure,HR
+58,250,Crops and livestock products,Croatia,Import Value,Sheep,2016,1000 US$,2931,Official figure,HR
+59,251,Crops and livestock products,Croatia,Import Value,Sheep,2017,1000 US$,4955,Official figure,HR
+60,252,Crops and livestock products,Croatia,Import Value,Sheep,2018,1000 US$,7182,Official figure,HR
+61,253,Crops and livestock products,Croatia,Import Value,Sheep,2019,1000 US$,6399,Official figure,HR
+62,254,Crops and livestock products,Croatia,Import Value,Sheep,2020,1000 US$,4764,Official figure,HR
+63,255,Crops and livestock products,Croatia,Import Value,Sheep,2021,1000 US$,5162,Official figure,HR
+64,358,Crops and livestock products,Denmark,Import Quantity,Cattle,2006,Head,230,Official figure,DK
+65,359,Crops and livestock products,Denmark,Import Quantity,Cattle,2007,Head,14,Official figure,DK
+66,360,Crops and livestock products,Denmark,Import Quantity,Cattle,2008,Head,1,Unofficial figure,DK
+67,361,Crops and livestock products,Denmark,Import Quantity,Cattle,2009,Head,182,Unofficial figure,DK
+68,362,Crops and livestock products,Denmark,Import Quantity,Cattle,2010,Head,0,Unofficial figure,DK
+69,363,Crops and livestock products,Denmark,Import Quantity,Cattle,2011,Head,0,Estimated value,DK
+70,364,Crops and livestock products,Denmark,Import Quantity,Cattle,2012,Head,0,Estimated value,DK
+71,365,Crops and livestock products,Denmark,Import Quantity,Cattle,2013,Head,6,Official figure,DK
+72,366,Crops and livestock products,Denmark,Import Quantity,Cattle,2014,Head,28,Official figure,DK
+73,367,Crops and livestock products,Denmark,Import Quantity,Cattle,2015,Head,5802,Official figure,DK
+74,368,Crops and livestock products,Denmark,Import Quantity,Cattle,2016,Head,161,Official figure,DK
+75,369,Crops and livestock products,Denmark,Import Quantity,Cattle,2017,Head,284,Official figure,DK
+76,370,Crops and livestock products,Denmark,Import Quantity,Cattle,2018,Head,4485,Official figure,DK
+77,371,Crops and livestock products,Denmark,Import Quantity,Cattle,2019,Head,448,Official figure,DK
+78,372,Crops and livestock products,Denmark,Import Quantity,Cattle,2020,Head,1051,Official figure,DK
+79,373,Crops and livestock products,Denmark,Import Quantity,Cattle,2021,Head,8,Official figure,DK
+80,374,Crops and livestock products,Denmark,Import Value,Cattle,2006,1000 US$,210,Official figure,DK
+81,375,Crops and livestock products,Denmark,Import Value,Cattle,2007,1000 US$,28,Unofficial figure,DK
+82,376,Crops and livestock products,Denmark,Import Value,Cattle,2008,1000 US$,0,Official figure,DK
+83,377,Crops and livestock products,Denmark,Import Value,Cattle,2009,1000 US$,606,Official figure,DK
+84,378,Crops and livestock products,Denmark,Import Value,Cattle,2010,1000 US$,0,Unofficial figure,DK
+85,379,Crops and livestock products,Denmark,Import Value,Cattle,2011,1000 US$,0,Estimated value,DK
+86,380,Crops and livestock products,Denmark,Import Value,Cattle,2012,1000 US$,0,Estimated value,DK
+87,381,Crops and livestock products,Denmark,Import Value,Cattle,2013,1000 US$,34,Official figure,DK
+88,382,Crops and livestock products,Denmark,Import Value,Cattle,2014,1000 US$,39,Official figure,DK
+89,383,Crops and livestock products,Denmark,Import Value,Cattle,2015,1000 US$,206,Official figure,DK
+90,384,Crops and livestock products,Denmark,Import Value,Cattle,2016,1000 US$,266,Official figure,DK
+91,385,Crops and livestock products,Denmark,Import Value,Cattle,2017,1000 US$,277,Official figure,DK
+92,386,Crops and livestock products,Denmark,Import Value,Cattle,2018,1000 US$,3264,Official figure,DK
+93,387,Crops and livestock products,Denmark,Import Value,Cattle,2019,1000 US$,21,Official figure,DK
+94,388,Crops and livestock products,Denmark,Import Value,Cattle,2020,1000 US$,24,Official figure,DK
+95,389,Crops and livestock products,Denmark,Import Value,Cattle,2021,1000 US$,5,Official figure,DK
+96,390,Crops and livestock products,Denmark,Import Quantity,Sheep,2006,Head,0,Estimated value,DK
+97,391,Crops and livestock products,Denmark,Import Quantity,Sheep,2007,Head,205,Official figure,DK
+98,392,Crops and livestock products,Denmark,Import Quantity,Sheep,2008,Head,0,Unofficial figure,DK
+99,393,Crops and livestock products,Denmark,Import Quantity,Sheep,2009,Head,162,Official figure,DK
+100,394,Crops and livestock products,Denmark,Import Quantity,Sheep,2010,Head,0,Unofficial figure,DK
+101,395,Crops and livestock products,Denmark,Import Quantity,Sheep,2011,Head,3929,Official figure,DK
+102,396,Crops and livestock products,Denmark,Import Quantity,Sheep,2012,Head,2645,Official figure,DK
+103,397,Crops and livestock products,Denmark,Import Quantity,Sheep,2013,Head,0,Unofficial figure,DK
+104,398,Crops and livestock products,Denmark,Import Quantity,Sheep,2016,Head,7,Official figure,DK
+105,399,Crops and livestock products,Denmark,Import Quantity,Sheep,2018,Head,34,Official figure,DK
+106,400,Crops and livestock products,Denmark,Import Value,Sheep,2006,1000 US$,0,Estimated value,DK
+107,401,Crops and livestock products,Denmark,Import Value,Sheep,2007,1000 US$,84,Official figure,DK
+108,402,Crops and livestock products,Denmark,Import Value,Sheep,2008,1000 US$,0,Unofficial figure,DK
+109,403,Crops and livestock products,Denmark,Import Value,Sheep,2009,1000 US$,32,Official figure,DK
+110,404,Crops and livestock products,Denmark,Import Value,Sheep,2010,1000 US$,0,Unofficial figure,DK
+111,405,Crops and livestock products,Denmark,Import Value,Sheep,2011,1000 US$,600,Official figure,DK
+112,406,Crops and livestock products,Denmark,Import Value,Sheep,2012,1000 US$,307,Official figure,DK
+113,407,Crops and livestock products,Denmark,Import Value,Sheep,2013,1000 US$,0,Unofficial figure,DK
+114,408,Crops and livestock products,Denmark,Import Value,Sheep,2016,1000 US$,1,Official figure,DK
+115,409,Crops and livestock products,Denmark,Import Value,Sheep,2018,1000 US$,7,Official figure,DK
+116,458,Crops and livestock products,Finland,Import Quantity,Cattle,2006,Head,265,Official figure,FI
+117,459,Crops and livestock products,Finland,Import Quantity,Cattle,2007,Head,127,Official figure,FI
+118,460,Crops and livestock products,Finland,Import Quantity,Cattle,2008,Head,0,Unofficial figure,FI
+119,461,Crops and livestock products,Finland,Import Quantity,Cattle,2009,Head,0,Estimated value,FI
+120,462,Crops and livestock products,Finland,Import Quantity,Cattle,2010,Head,0,Estimated value,FI
+121,463,Crops and livestock products,Finland,Import Quantity,Cattle,2011,Head,0,Estimated value,FI
+122,464,Crops and livestock products,Finland,Import Quantity,Cattle,2012,Head,3,Official figure,FI
+123,465,Crops and livestock products,Finland,Import Quantity,Cattle,2013,Head,0,Unofficial figure,FI
+124,466,Crops and livestock products,Finland,Import Quantity,Cattle,2021,Head,5,Official figure,FI
+125,467,Crops and livestock products,Finland,Import Value,Cattle,2006,1000 US$,603,Official figure,FI
+126,468,Crops and livestock products,Finland,Import Value,Cattle,2007,1000 US$,397,Official figure,FI
+127,469,Crops and livestock products,Finland,Import Value,Cattle,2008,1000 US$,0,Unofficial figure,FI
+128,470,Crops and livestock products,Finland,Import Value,Cattle,2009,1000 US$,0,Estimated value,FI
+129,471,Crops and livestock products,Finland,Import Value,Cattle,2010,1000 US$,0,Estimated value,FI
+130,472,Crops and livestock products,Finland,Import Value,Cattle,2011,1000 US$,0,Estimated value,FI
+131,473,Crops and livestock products,Finland,Import Value,Cattle,2012,1000 US$,6,Official figure,FI
+132,474,Crops and livestock products,Finland,Import Value,Cattle,2013,1000 US$,0,Unofficial figure,FI
+133,475,Crops and livestock products,Finland,Import Value,Cattle,2021,1000 US$,34,Official figure,FI
+134,476,Crops and livestock products,Finland,Import Quantity,Sheep,2006,Head,0,Estimated value,FI
+135,477,Crops and livestock products,Finland,Import Quantity,Sheep,2007,Head,1,Official figure,FI
+136,478,Crops and livestock products,Finland,Import Quantity,Sheep,2008,Head,22,Official figure,FI
+137,479,Crops and livestock products,Finland,Import Quantity,Sheep,2009,Head,0,Unofficial figure,FI
+138,480,Crops and livestock products,Finland,Import Quantity,Sheep,2010,Head,0,Estimated value,FI
+139,481,Crops and livestock products,Finland,Import Quantity,Sheep,2011,Head,0,Estimated value,FI
+140,482,Crops and livestock products,Finland,Import Quantity,Sheep,2012,Head,12,Official figure,FI
+141,483,Crops and livestock products,Finland,Import Quantity,Sheep,2013,Head,4,Official figure,FI
+142,484,Crops and livestock products,Finland,Import Quantity,Sheep,2014,Head,30,Official figure,FI
+143,485,Crops and livestock products,Finland,Import Quantity,Sheep,2016,Head,5,Official figure,FI
+144,486,Crops and livestock products,Finland,Import Quantity,Sheep,2019,Head,8,Official figure,FI
+145,487,Crops and livestock products,Finland,Import Value,Sheep,2006,1000 US$,0,Estimated value,FI
+146,488,Crops and livestock products,Finland,Import Value,Sheep,2007,1000 US$,3,Official figure,FI
+147,489,Crops and livestock products,Finland,Import Value,Sheep,2008,1000 US$,7,Official figure,FI
+148,490,Crops and livestock products,Finland,Import Value,Sheep,2009,1000 US$,0,Unofficial figure,FI
+149,491,Crops and livestock products,Finland,Import Value,Sheep,2010,1000 US$,0,Estimated value,FI
+150,492,Crops and livestock products,Finland,Import Value,Sheep,2011,1000 US$,0,Estimated value,FI
+151,493,Crops and livestock products,Finland,Import Value,Sheep,2012,1000 US$,3,Official figure,FI
+152,494,Crops and livestock products,Finland,Import Value,Sheep,2013,1000 US$,8,Official figure,FI
+153,495,Crops and livestock products,Finland,Import Value,Sheep,2014,1000 US$,30,Official figure,FI
+154,496,Crops and livestock products,Finland,Import Value,Sheep,2016,1000 US$,3,Official figure,FI
+155,497,Crops and livestock products,Finland,Import Value,Sheep,2019,1000 US$,14,Official figure,FI
+156,754,Crops and livestock products,Ireland,Import Quantity,Cattle,2006,Head,372,Official figure,IE
+157,755,Crops and livestock products,Ireland,Import Quantity,Cattle,2007,Head,767,Official figure,IE
+158,756,Crops and livestock products,Ireland,Import Quantity,Cattle,2008,Head,90,Official figure,IE
+159,757,Crops and livestock products,Ireland,Import Quantity,Cattle,2009,Head,38,Unofficial figure,IE
+160,758,Crops and livestock products,Ireland,Import Quantity,Cattle,2010,Head,98,Official figure,IE
+161,759,Crops and livestock products,Ireland,Import Quantity,Cattle,2011,Head,1017,Unofficial figure,IE
+162,760,Crops and livestock products,Ireland,Import Quantity,Cattle,2012,Head,4055,Unofficial figure,IE
+163,761,Crops and livestock products,Ireland,Import Quantity,Cattle,2013,Head,2791,Official figure,IE
+164,762,Crops and livestock products,Ireland,Import Quantity,Cattle,2014,Head,2174,Official figure,IE
+165,763,Crops and livestock products,Ireland,Import Quantity,Cattle,2015,Head,8338,Official figure,IE
+166,764,Crops and livestock products,Ireland,Import Quantity,Cattle,2016,Head,6494,Official figure,IE
+167,765,Crops and livestock products,Ireland,Import Quantity,Cattle,2017,Head,5862,Official figure,IE
+168,766,Crops and livestock products,Ireland,Import Quantity,Cattle,2018,Head,7811,Official figure,IE
+169,767,Crops and livestock products,Ireland,Import Quantity,Cattle,2019,Head,16376,Imputed value,IE
+170,768,Crops and livestock products,Ireland,Import Quantity,Cattle,2020,Head,13907,Official figure,IE
+171,769,Crops and livestock products,Ireland,Import Quantity,Cattle,2021,Head,23056,Official figure,IE
+172,770,Crops and livestock products,Ireland,Import Value,Cattle,2006,1000 US$,582,Official figure,IE
+173,771,Crops and livestock products,Ireland,Import Value,Cattle,2007,1000 US$,1409,Official figure,IE
+174,772,Crops and livestock products,Ireland,Import Value,Cattle,2008,1000 US$,321,Official figure,IE
+175,773,Crops and livestock products,Ireland,Import Value,Cattle,2009,1000 US$,226,Official figure,IE
+176,774,Crops and livestock products,Ireland,Import Value,Cattle,2010,1000 US$,442,Official figure,IE
+177,775,Crops and livestock products,Ireland,Import Value,Cattle,2011,1000 US$,1259,Official figure,IE
+178,776,Crops and livestock products,Ireland,Import Value,Cattle,2012,1000 US$,5183,Official figure,IE
+179,777,Crops and livestock products,Ireland,Import Value,Cattle,2013,1000 US$,2721,Official figure,IE
+180,778,Crops and livestock products,Ireland,Import Value,Cattle,2014,1000 US$,226,Official figure,IE
+181,779,Crops and livestock products,Ireland,Import Value,Cattle,2015,1000 US$,1021,Official figure,IE
+182,780,Crops and livestock products,Ireland,Import Value,Cattle,2016,1000 US$,787,Official figure,IE
+183,781,Crops and livestock products,Ireland,Import Value,Cattle,2017,1000 US$,927,Official figure,IE
+184,782,Crops and livestock products,Ireland,Import Value,Cattle,2018,1000 US$,1750,Official figure,IE
+185,783,Crops and livestock products,Ireland,Import Value,Cattle,2019,1000 US$,4073,Official figure,IE
+186,784,Crops and livestock products,Ireland,Import Value,Cattle,2020,1000 US$,11952,Official figure,IE
+187,785,Crops and livestock products,Ireland,Import Value,Cattle,2021,1000 US$,5883,Official figure,IE
+188,786,Crops and livestock products,Ireland,Import Quantity,Sheep,2006,Head,16212,Official figure,IE
+189,787,Crops and livestock products,Ireland,Import Quantity,Sheep,2007,Head,23707,Official figure,IE
+190,788,Crops and livestock products,Ireland,Import Quantity,Sheep,2008,Head,43554,Official figure,IE
+191,789,Crops and livestock products,Ireland,Import Quantity,Sheep,2009,Head,28964,Official figure,IE
+192,790,Crops and livestock products,Ireland,Import Quantity,Sheep,2010,Head,31006,Official figure,IE
+193,791,Crops and livestock products,Ireland,Import Quantity,Sheep,2011,Head,18372,Official figure,IE
+194,792,Crops and livestock products,Ireland,Import Quantity,Sheep,2012,Head,222913,Official figure,IE
+195,793,Crops and livestock products,Ireland,Import Quantity,Sheep,2013,Head,71284,Official figure,IE
+196,794,Crops and livestock products,Ireland,Import Quantity,Sheep,2014,Head,18758,Official figure,IE
+197,795,Crops and livestock products,Ireland,Import Quantity,Sheep,2015,Head,12157,Official figure,IE
+198,796,Crops and livestock products,Ireland,Import Quantity,Sheep,2016,Head,19543,Official figure,IE
+199,797,Crops and livestock products,Ireland,Import Quantity,Sheep,2017,Head,17889,Official figure,IE
+200,798,Crops and livestock products,Ireland,Import Quantity,Sheep,2018,Head,19232,Official figure,IE
+201,799,Crops and livestock products,Ireland,Import Quantity,Sheep,2019,Head,16831,Official figure,IE
+202,800,Crops and livestock products,Ireland,Import Quantity,Sheep,2020,Head,363075,Official figure,IE
+203,801,Crops and livestock products,Ireland,Import Quantity,Sheep,2021,Head,317112,Official figure,IE
+204,802,Crops and livestock products,Ireland,Import Value,Sheep,2006,1000 US$,2943,Official figure,IE
+205,803,Crops and livestock products,Ireland,Import Value,Sheep,2007,1000 US$,2496,Official figure,IE
+206,804,Crops and livestock products,Ireland,Import Value,Sheep,2008,1000 US$,5990,Official figure,IE
+207,805,Crops and livestock products,Ireland,Import Value,Sheep,2009,1000 US$,3099,Official figure,IE
+208,806,Crops and livestock products,Ireland,Import Value,Sheep,2010,1000 US$,3910,Official figure,IE
+209,807,Crops and livestock products,Ireland,Import Value,Sheep,2011,1000 US$,2707,Official figure,IE
+210,808,Crops and livestock products,Ireland,Import Value,Sheep,2012,1000 US$,17554,Official figure,IE
+211,809,Crops and livestock products,Ireland,Import Value,Sheep,2013,1000 US$,14171,Official figure,IE
+212,810,Crops and livestock products,Ireland,Import Value,Sheep,2014,1000 US$,2136,Official figure,IE
+213,811,Crops and livestock products,Ireland,Import Value,Sheep,2015,1000 US$,1185,Official figure,IE
+214,812,Crops and livestock products,Ireland,Import Value,Sheep,2016,1000 US$,1870,Official figure,IE
+215,813,Crops and livestock products,Ireland,Import Value,Sheep,2017,1000 US$,1605,Official figure,IE
+216,814,Crops and livestock products,Ireland,Import Value,Sheep,2018,1000 US$,1809,Official figure,IE
+217,815,Crops and livestock products,Ireland,Import Value,Sheep,2019,1000 US$,1603,Official figure,IE
+218,816,Crops and livestock products,Ireland,Import Value,Sheep,2020,1000 US$,44250,Official figure,IE
+219,817,Crops and livestock products,Ireland,Import Value,Sheep,2021,1000 US$,48356,Official figure,IE
+220,192,Crops and livestock products,Croatia,Export Quantity,Cattle,2006,Head,3285,Official figure,HR
+221,193,Crops and livestock products,Croatia,Export Quantity,Cattle,2007,Head,14895,Official figure,HR
+222,194,Crops and livestock products,Croatia,Export Quantity,Cattle,2008,Head,15566,Official figure,HR
+223,195,Crops and livestock products,Croatia,Export Quantity,Cattle,2009,Head,4545,Official figure,HR
+224,196,Crops and livestock products,Croatia,Export Quantity,Cattle,2010,Head,9496,Official figure,HR
+225,197,Crops and livestock products,Croatia,Export Quantity,Cattle,2011,Head,28562,Official figure,HR
+226,198,Crops and livestock products,Croatia,Export Quantity,Cattle,2012,Head,33055,Official figure,HR
+227,199,Crops and livestock products,Croatia,Export Quantity,Cattle,2013,Head,29577,Official figure,HR
+228,200,Crops and livestock products,Croatia,Export Quantity,Cattle,2014,Head,41927,Official figure,HR
+229,201,Crops and livestock products,Croatia,Export Quantity,Cattle,2015,Head,66312,Official figure,HR
+230,202,Crops and livestock products,Croatia,Export Quantity,Cattle,2016,Head,121766,Official figure,HR
+231,203,Crops and livestock products,Croatia,Export Quantity,Cattle,2017,Head,133977,Official figure,HR
+232,204,Crops and livestock products,Croatia,Export Quantity,Cattle,2018,Head,152172,Official figure,HR
+233,205,Crops and livestock products,Croatia,Export Quantity,Cattle,2019,Head,98759,Official figure,HR
+234,206,Crops and livestock products,Croatia,Export Quantity,Cattle,2020,Head,124610,Official figure,HR
+235,207,Crops and livestock products,Croatia,Export Quantity,Cattle,2021,Head,138444,Official figure,HR
+236,208,Crops and livestock products,Croatia,Export Value,Cattle,2006,1000 US$,3002,Official figure,HR
+237,209,Crops and livestock products,Croatia,Export Value,Cattle,2007,1000 US$,11959,Official figure,HR
+238,210,Crops and livestock products,Croatia,Export Value,Cattle,2008,1000 US$,14151,Official figure,HR
+239,211,Crops and livestock products,Croatia,Export Value,Cattle,2009,1000 US$,3674,Official figure,HR
+240,212,Crops and livestock products,Croatia,Export Value,Cattle,2010,1000 US$,14550,Official figure,HR
+241,213,Crops and livestock products,Croatia,Export Value,Cattle,2011,1000 US$,38677,Official figure,HR
+242,214,Crops and livestock products,Croatia,Export Value,Cattle,2012,1000 US$,39685,Official figure,HR
+243,215,Crops and livestock products,Croatia,Export Value,Cattle,2013,1000 US$,41278,Official figure,HR
+244,216,Crops and livestock products,Croatia,Export Value,Cattle,2014,1000 US$,52244,Official figure,HR
+245,217,Crops and livestock products,Croatia,Export Value,Cattle,2015,1000 US$,80269,Official figure,HR
+246,218,Crops and livestock products,Croatia,Export Value,Cattle,2016,1000 US$,143703,Official figure,HR
+247,219,Crops and livestock products,Croatia,Export Value,Cattle,2017,1000 US$,156613,Official figure,HR
+248,220,Crops and livestock products,Croatia,Export Value,Cattle,2018,1000 US$,197318,Official figure,HR
+249,221,Crops and livestock products,Croatia,Export Value,Cattle,2019,1000 US$,100527,Official figure,HR
+250,222,Crops and livestock products,Croatia,Export Value,Cattle,2020,1000 US$,135127,Official figure,HR
+251,223,Crops and livestock products,Croatia,Export Value,Cattle,2021,1000 US$,173164,Official figure,HR
+252,224,Crops and livestock products,Croatia,Export Quantity,Sheep,2006,Head,68,Official figure,HR
+253,225,Crops and livestock products,Croatia,Export Quantity,Sheep,2007,Head,331,Official figure,HR
+254,226,Crops and livestock products,Croatia,Export Quantity,Sheep,2008,Head,0,Unofficial figure,HR
+255,227,Crops and livestock products,Croatia,Export Quantity,Sheep,2009,Head,5,Official figure,HR
+256,228,Crops and livestock products,Croatia,Export Quantity,Sheep,2010,Head,510,Official figure,HR
+257,229,Crops and livestock products,Croatia,Export Quantity,Sheep,2011,Head,348,Official figure,HR
+258,230,Crops and livestock products,Croatia,Export Quantity,Sheep,2012,Head,1428,Official figure,HR
+259,231,Crops and livestock products,Croatia,Export Quantity,Sheep,2013,Head,2667,Official figure,HR
+260,232,Crops and livestock products,Croatia,Export Quantity,Sheep,2014,Head,12515,Official figure,HR
+261,233,Crops and livestock products,Croatia,Export Quantity,Sheep,2015,Head,24190,Official figure,HR
+262,234,Crops and livestock products,Croatia,Export Quantity,Sheep,2016,Head,54362,Official figure,HR
+263,235,Crops and livestock products,Croatia,Export Quantity,Sheep,2017,Head,92478,Official figure,HR
+264,236,Crops and livestock products,Croatia,Export Quantity,Sheep,2018,Head,92468,Official figure,HR
+265,237,Crops and livestock products,Croatia,Export Quantity,Sheep,2019,Head,51176,Official figure,HR
+266,238,Crops and livestock products,Croatia,Export Quantity,Sheep,2020,Head,62808,Official figure,HR
+267,239,Crops and livestock products,Croatia,Export Quantity,Sheep,2021,Head,51362,Official figure,HR
+268,240,Crops and livestock products,Croatia,Export Value,Sheep,2006,1000 US$,6,Official figure,HR
+269,241,Crops and livestock products,Croatia,Export Value,Sheep,2007,1000 US$,34,Official figure,HR
+270,242,Crops and livestock products,Croatia,Export Value,Sheep,2008,1000 US$,0,Unofficial figure,HR
+271,243,Crops and livestock products,Croatia,Export Value,Sheep,2009,1000 US$,3,Official figure,HR
+272,244,Crops and livestock products,Croatia,Export Value,Sheep,2010,1000 US$,37,Official figure,HR
+273,245,Crops and livestock products,Croatia,Export Value,Sheep,2011,1000 US$,49,Official figure,HR
+274,246,Crops and livestock products,Croatia,Export Value,Sheep,2012,1000 US$,291,Official figure,HR
+275,247,Crops and livestock products,Croatia,Export Value,Sheep,2013,1000 US$,611,Official figure,HR
+276,248,Crops and livestock products,Croatia,Export Value,Sheep,2014,1000 US$,1781,Official figure,HR
+277,249,Crops and livestock products,Croatia,Export Value,Sheep,2015,1000 US$,2910,Official figure,HR
+278,250,Crops and livestock products,Croatia,Export Value,Sheep,2016,1000 US$,5668,Official figure,HR
+279,251,Crops and livestock products,Croatia,Export Value,Sheep,2017,1000 US$,10604,Official figure,HR
+280,252,Crops and livestock products,Croatia,Export Value,Sheep,2018,1000 US$,11269,Official figure,HR
+281,253,Crops and livestock products,Croatia,Export Value,Sheep,2019,1000 US$,5143,Official figure,HR
+282,254,Crops and livestock products,Croatia,Export Value,Sheep,2020,1000 US$,7399,Official figure,HR
+283,255,Crops and livestock products,Croatia,Export Value,Sheep,2021,1000 US$,7525,Official figure,HR
+284,372,Crops and livestock products,Denmark,Export Quantity,Cattle,2006,Head,12688,Official figure,DK
+285,373,Crops and livestock products,Denmark,Export Quantity,Cattle,2007,Head,9169,Unofficial figure,DK
+286,374,Crops and livestock products,Denmark,Export Quantity,Cattle,2008,Head,4869,Official figure,DK
+287,375,Crops and livestock products,Denmark,Export Quantity,Cattle,2009,Head,10678,Official figure,DK
+288,376,Crops and livestock products,Denmark,Export Quantity,Cattle,2010,Head,14833,Official figure,DK
+289,377,Crops and livestock products,Denmark,Export Quantity,Cattle,2011,Head,28193,Official figure,DK
+290,378,Crops and livestock products,Denmark,Export Quantity,Cattle,2012,Head,56176,Official figure,DK
+291,379,Crops and livestock products,Denmark,Export Quantity,Cattle,2013,Head,60555,Official figure,DK
+292,380,Crops and livestock products,Denmark,Export Quantity,Cattle,2014,Head,70002,Official figure,DK
+293,381,Crops and livestock products,Denmark,Export Quantity,Cattle,2015,Head,60832,Official figure,DK
+294,382,Crops and livestock products,Denmark,Export Quantity,Cattle,2016,Head,81292,Official figure,DK
+295,383,Crops and livestock products,Denmark,Export Quantity,Cattle,2017,Head,89171,Official figure,DK
+296,384,Crops and livestock products,Denmark,Export Quantity,Cattle,2018,Head,98579,Official figure,DK
+297,385,Crops and livestock products,Denmark,Export Quantity,Cattle,2019,Head,117808,Official figure,DK
+298,386,Crops and livestock products,Denmark,Export Quantity,Cattle,2020,Head,97550,Official figure,DK
+299,387,Crops and livestock products,Denmark,Export Quantity,Cattle,2021,Head,77958,Official figure,DK
+300,388,Crops and livestock products,Denmark,Export Value,Cattle,2006,1000 US$,16962,Official figure,DK
+301,389,Crops and livestock products,Denmark,Export Value,Cattle,2007,1000 US$,21100,Official figure,DK
+302,390,Crops and livestock products,Denmark,Export Value,Cattle,2008,1000 US$,7613,Official figure,DK
+303,391,Crops and livestock products,Denmark,Export Value,Cattle,2009,1000 US$,5621,Official figure,DK
+304,392,Crops and livestock products,Denmark,Export Value,Cattle,2010,1000 US$,6636,Official figure,DK
+305,393,Crops and livestock products,Denmark,Export Value,Cattle,2011,1000 US$,24733,Official figure,DK
+306,394,Crops and livestock products,Denmark,Export Value,Cattle,2012,1000 US$,55542,Official figure,DK
+307,395,Crops and livestock products,Denmark,Export Value,Cattle,2013,1000 US$,49320,Official figure,DK
+308,396,Crops and livestock products,Denmark,Export Value,Cattle,2014,1000 US$,66744,Official figure,DK
+309,397,Crops and livestock products,Denmark,Export Value,Cattle,2015,1000 US$,51523,Official figure,DK
+310,398,Crops and livestock products,Denmark,Export Value,Cattle,2016,1000 US$,47351,Official figure,DK
+311,399,Crops and livestock products,Denmark,Export Value,Cattle,2017,1000 US$,76079,Official figure,DK
+312,400,Crops and livestock products,Denmark,Export Value,Cattle,2018,1000 US$,80492,Official figure,DK
+313,401,Crops and livestock products,Denmark,Export Value,Cattle,2019,1000 US$,109072,Official figure,DK
+314,402,Crops and livestock products,Denmark,Export Value,Cattle,2020,1000 US$,87542,Official figure,DK
+315,403,Crops and livestock products,Denmark,Export Value,Cattle,2021,1000 US$,84451,Official figure,DK
+316,404,Crops and livestock products,Denmark,Export Quantity,Sheep,2006,Head,2071,Official figure,DK
+317,405,Crops and livestock products,Denmark,Export Quantity,Sheep,2007,Head,1587,Official figure,DK
+318,406,Crops and livestock products,Denmark,Export Quantity,Sheep,2008,Head,38,Official figure,DK
+319,407,Crops and livestock products,Denmark,Export Quantity,Sheep,2009,Head,197,Official figure,DK
+320,408,Crops and livestock products,Denmark,Export Quantity,Sheep,2010,Head,0,Unofficial figure,DK
+321,409,Crops and livestock products,Denmark,Export Quantity,Sheep,2011,Head,0,Estimated value,DK
+322,410,Crops and livestock products,Denmark,Export Quantity,Sheep,2012,Head,45,Official figure,DK
+323,411,Crops and livestock products,Denmark,Export Quantity,Sheep,2013,Head,1,Unofficial figure,DK
+324,412,Crops and livestock products,Denmark,Export Quantity,Sheep,2014,Head,46,Official figure,DK
+325,413,Crops and livestock products,Denmark,Export Quantity,Sheep,2015,Head,5500,Official figure,DK
+326,414,Crops and livestock products,Denmark,Export Quantity,Sheep,2017,Head,568,Official figure,DK
+327,415,Crops and livestock products,Denmark,Export Quantity,Sheep,2018,Head,1057,Official figure,DK
+328,416,Crops and livestock products,Denmark,Export Quantity,Sheep,2019,Head,756,Official figure,DK
+329,417,Crops and livestock products,Denmark,Export Value,Sheep,2006,1000 US$,219,Official figure,DK
+330,418,Crops and livestock products,Denmark,Export Value,Sheep,2007,1000 US$,209,Official figure,DK
+331,419,Crops and livestock products,Denmark,Export Value,Sheep,2008,1000 US$,42,Official figure,DK
+332,420,Crops and livestock products,Denmark,Export Value,Sheep,2009,1000 US$,67,Official figure,DK
+333,421,Crops and livestock products,Denmark,Export Value,Sheep,2010,1000 US$,0,Unofficial figure,DK
+334,422,Crops and livestock products,Denmark,Export Value,Sheep,2011,1000 US$,0,Estimated value,DK
+335,423,Crops and livestock products,Denmark,Export Value,Sheep,2012,1000 US$,27,Official figure,DK
+336,424,Crops and livestock products,Denmark,Export Value,Sheep,2013,1000 US$,0,Official figure,DK
+337,425,Crops and livestock products,Denmark,Export Value,Sheep,2014,1000 US$,27,Official figure,DK
+338,426,Crops and livestock products,Denmark,Export Value,Sheep,2015,1000 US$,219,Official figure,DK
+339,427,Crops and livestock products,Denmark,Export Value,Sheep,2017,1000 US$,141,Official figure,DK
+340,428,Crops and livestock products,Denmark,Export Value,Sheep,2018,1000 US$,99,Official figure,DK
+341,429,Crops and livestock products,Denmark,Export Value,Sheep,2019,1000 US$,79,Official figure,DK
+342,494,Crops and livestock products,Finland,Export Quantity,Cattle,2006,Head,300,Official figure,FI
+343,495,Crops and livestock products,Finland,Export Quantity,Cattle,2007,Head,806,Official figure,FI
+344,496,Crops and livestock products,Finland,Export Quantity,Cattle,2008,Head,509,Official figure,FI
+345,497,Crops and livestock products,Finland,Export Quantity,Cattle,2009,Head,832,Unofficial figure,FI
+346,498,Crops and livestock products,Finland,Export Quantity,Cattle,2010,Head,670,Official figure,FI
+347,499,Crops and livestock products,Finland,Export Quantity,Cattle,2011,Head,1144,Official figure,FI
+348,500,Crops and livestock products,Finland,Export Quantity,Cattle,2012,Head,1240,Official figure,FI
+349,501,Crops and livestock products,Finland,Export Quantity,Cattle,2013,Head,4,Official figure,FI
+350,502,Crops and livestock products,Finland,Export Quantity,Cattle,2014,Head,405,Official figure,FI
+351,503,Crops and livestock products,Finland,Export Quantity,Cattle,2015,Head,950,Official figure,FI
+352,504,Crops and livestock products,Finland,Export Quantity,Cattle,2016,Head,510,Official figure,FI
+353,505,Crops and livestock products,Finland,Export Quantity,Cattle,2017,Head,441,Official figure,FI
+354,506,Crops and livestock products,Finland,Export Quantity,Cattle,2018,Head,112,Official figure,FI
+355,507,Crops and livestock products,Finland,Export Quantity,Cattle,2019,Head,66,Official figure,FI
+356,508,Crops and livestock products,Finland,Export Quantity,Cattle,2020,Head,100,Official figure,FI
+357,509,Crops and livestock products,Finland,Export Value,Cattle,2006,1000 US$,469,Official figure,FI
+358,510,Crops and livestock products,Finland,Export Value,Cattle,2007,1000 US$,1843,Official figure,FI
+359,511,Crops and livestock products,Finland,Export Value,Cattle,2008,1000 US$,1316,Official figure,FI
+360,512,Crops and livestock products,Finland,Export Value,Cattle,2009,1000 US$,2536,Official figure,FI
+361,513,Crops and livestock products,Finland,Export Value,Cattle,2010,1000 US$,2331,Official figure,FI
+362,514,Crops and livestock products,Finland,Export Value,Cattle,2011,1000 US$,3976,Official figure,FI
+363,515,Crops and livestock products,Finland,Export Value,Cattle,2012,1000 US$,4207,Official figure,FI
+364,516,Crops and livestock products,Finland,Export Value,Cattle,2013,1000 US$,26,Official figure,FI
+365,517,Crops and livestock products,Finland,Export Value,Cattle,2014,1000 US$,1380,Official figure,FI
+366,518,Crops and livestock products,Finland,Export Value,Cattle,2015,1000 US$,2634,Official figure,FI
+367,519,Crops and livestock products,Finland,Export Value,Cattle,2016,1000 US$,1249,Official figure,FI
+368,520,Crops and livestock products,Finland,Export Value,Cattle,2017,1000 US$,1044,Official figure,FI
+369,521,Crops and livestock products,Finland,Export Value,Cattle,2018,1000 US$,322,Official figure,FI
+370,522,Crops and livestock products,Finland,Export Value,Cattle,2019,1000 US$,191,Official figure,FI
+371,523,Crops and livestock products,Finland,Export Value,Cattle,2020,1000 US$,245,Official figure,FI
+372,524,Crops and livestock products,Finland,Export Quantity,Sheep,2006,Head,0,Estimated value,FI
+373,525,Crops and livestock products,Finland,Export Quantity,Sheep,2007,Head,0,Estimated value,FI
+374,526,Crops and livestock products,Finland,Export Quantity,Sheep,2008,Head,0,Estimated value,FI
+375,527,Crops and livestock products,Finland,Export Quantity,Sheep,2009,Head,0,Estimated value,FI
+376,528,Crops and livestock products,Finland,Export Quantity,Sheep,2010,Head,0,Estimated value,FI
+377,529,Crops and livestock products,Finland,Export Quantity,Sheep,2011,Head,0,Estimated value,FI
+378,530,Crops and livestock products,Finland,Export Quantity,Sheep,2012,Head,0,Estimated value,FI
+379,531,Crops and livestock products,Finland,Export Quantity,Sheep,2013,Head,0,Estimated value,FI
+380,532,Crops and livestock products,Finland,Export Quantity,Sheep,2020,Head,177,Official figure,FI
+381,533,Crops and livestock products,Finland,Export Value,Sheep,2006,1000 US$,0,Estimated value,FI
+382,534,Crops and livestock products,Finland,Export Value,Sheep,2007,1000 US$,0,Estimated value,FI
+383,535,Crops and livestock products,Finland,Export Value,Sheep,2008,1000 US$,0,Estimated value,FI
+384,536,Crops and livestock products,Finland,Export Value,Sheep,2009,1000 US$,0,Estimated value,FI
+385,537,Crops and livestock products,Finland,Export Value,Sheep,2010,1000 US$,0,Estimated value,FI
+386,538,Crops and livestock products,Finland,Export Value,Sheep,2011,1000 US$,0,Estimated value,FI
+387,539,Crops and livestock products,Finland,Export Value,Sheep,2012,1000 US$,0,Estimated value,FI
+388,540,Crops and livestock products,Finland,Export Value,Sheep,2013,1000 US$,0,Estimated value,FI
+389,541,Crops and livestock products,Finland,Export Value,Sheep,2020,1000 US$,92,Official figure,FI
+390,798,Crops and livestock products,Ireland,Export Quantity,Cattle,2006,Head,107291,Official figure,IE
+391,799,Crops and livestock products,Ireland,Export Quantity,Cattle,2007,Head,154417,Unofficial figure,IE
+392,800,Crops and livestock products,Ireland,Export Quantity,Cattle,2008,Head,129876,Official figure,IE
+393,801,Crops and livestock products,Ireland,Export Quantity,Cattle,2009,Head,188723,Official figure,IE
+394,802,Crops and livestock products,Ireland,Export Quantity,Cattle,2010,Head,271663,Unofficial figure,IE
+395,803,Crops and livestock products,Ireland,Export Quantity,Cattle,2011,Head,184630,Unofficial figure,IE
+396,804,Crops and livestock products,Ireland,Export Quantity,Cattle,2012,Head,130578,Official figure,IE
+397,805,Crops and livestock products,Ireland,Export Quantity,Cattle,2013,Head,192352,Official figure,IE
+398,806,Crops and livestock products,Ireland,Export Quantity,Cattle,2014,Head,205866,Official figure,IE
+399,807,Crops and livestock products,Ireland,Export Quantity,Cattle,2015,Head,148454,Official figure,IE
+400,808,Crops and livestock products,Ireland,Export Quantity,Cattle,2016,Head,123727,Official figure,IE
+401,809,Crops and livestock products,Ireland,Export Quantity,Cattle,2017,Head,150293,Official figure,IE
+402,810,Crops and livestock products,Ireland,Export Quantity,Cattle,2018,Head,188065,Official figure,IE
+403,811,Crops and livestock products,Ireland,Export Quantity,Cattle,2019,Head,235879,Official figure,IE
+404,812,Crops and livestock products,Ireland,Export Quantity,Cattle,2020,Head,291373,Official figure,IE
+405,813,Crops and livestock products,Ireland,Export Quantity,Cattle,2021,Head,213348,Official figure,IE
+406,814,Crops and livestock products,Ireland,Export Value,Cattle,2006,1000 US$,100128,Official figure,IE
+407,815,Crops and livestock products,Ireland,Export Value,Cattle,2007,1000 US$,126829,Official figure,IE
+408,816,Crops and livestock products,Ireland,Export Value,Cattle,2008,1000 US$,124043,Official figure,IE
+409,817,Crops and livestock products,Ireland,Export Value,Cattle,2009,1000 US$,166581,Official figure,IE
+410,818,Crops and livestock products,Ireland,Export Value,Cattle,2010,1000 US$,192881,Official figure,IE
+411,819,Crops and livestock products,Ireland,Export Value,Cattle,2011,1000 US$,180423,Official figure,IE
+412,820,Crops and livestock products,Ireland,Export Value,Cattle,2012,1000 US$,161982,Official figure,IE
+413,821,Crops and livestock products,Ireland,Export Value,Cattle,2013,1000 US$,156314,Official figure,IE
+414,822,Crops and livestock products,Ireland,Export Value,Cattle,2014,1000 US$,167563,Official figure,IE
+415,823,Crops and livestock products,Ireland,Export Value,Cattle,2015,1000 US$,99553,Official figure,IE
+416,824,Crops and livestock products,Ireland,Export Value,Cattle,2016,1000 US$,75105,Official figure,IE
+417,825,Crops and livestock products,Ireland,Export Value,Cattle,2017,1000 US$,96265,Official figure,IE
+418,826,Crops and livestock products,Ireland,Export Value,Cattle,2018,1000 US$,114435,Official figure,IE
+419,827,Crops and livestock products,Ireland,Export Value,Cattle,2019,1000 US$,124506,Official figure,IE
+420,828,Crops and livestock products,Ireland,Export Value,Cattle,2020,1000 US$,124611,Official figure,IE
+421,829,Crops and livestock products,Ireland,Export Value,Cattle,2021,1000 US$,141461,Official figure,IE
+422,830,Crops and livestock products,Ireland,Export Quantity,Sheep,2006,Head,144638,Official figure,IE
+423,831,Crops and livestock products,Ireland,Export Quantity,Sheep,2007,Head,68003,Official figure,IE
+424,832,Crops and livestock products,Ireland,Export Quantity,Sheep,2008,Head,67408,Official figure,IE
+425,833,Crops and livestock products,Ireland,Export Quantity,Sheep,2009,Head,91755,Official figure,IE
+426,834,Crops and livestock products,Ireland,Export Quantity,Sheep,2010,Head,37090,Official figure,IE
+427,835,Crops and livestock products,Ireland,Export Quantity,Sheep,2011,Head,18711,Official figure,IE
+428,836,Crops and livestock products,Ireland,Export Quantity,Sheep,2012,Head,30528,Official figure,IE
+429,837,Crops and livestock products,Ireland,Export Quantity,Sheep,2013,Head,54197,Official figure,IE
+430,838,Crops and livestock products,Ireland,Export Quantity,Sheep,2014,Head,37646,Official figure,IE
+431,839,Crops and livestock products,Ireland,Export Quantity,Sheep,2015,Head,15036,Official figure,IE
+432,840,Crops and livestock products,Ireland,Export Quantity,Sheep,2016,Head,15657,Official figure,IE
+433,841,Crops and livestock products,Ireland,Export Quantity,Sheep,2017,Head,20834,Official figure,IE
+434,842,Crops and livestock products,Ireland,Export Quantity,Sheep,2018,Head,15958,Official figure,IE
+435,843,Crops and livestock products,Ireland,Export Quantity,Sheep,2019,Head,5331,Official figure,IE
+436,844,Crops and livestock products,Ireland,Export Quantity,Sheep,2020,Head,18605,Official figure,IE
+437,845,Crops and livestock products,Ireland,Export Quantity,Sheep,2021,Head,9641,Official figure,IE
+438,846,Crops and livestock products,Ireland,Export Value,Sheep,2006,1000 US$,15195,Official figure,IE
+439,847,Crops and livestock products,Ireland,Export Value,Sheep,2007,1000 US$,7385,Official figure,IE
+440,848,Crops and livestock products,Ireland,Export Value,Sheep,2008,1000 US$,7840,Official figure,IE
+441,849,Crops and livestock products,Ireland,Export Value,Sheep,2009,1000 US$,11146,Official figure,IE
+442,850,Crops and livestock products,Ireland,Export Value,Sheep,2010,1000 US$,5192,Official figure,IE
+443,851,Crops and livestock products,Ireland,Export Value,Sheep,2011,1000 US$,3153,Official figure,IE
+444,852,Crops and livestock products,Ireland,Export Value,Sheep,2012,1000 US$,4951,Official figure,IE
+445,853,Crops and livestock products,Ireland,Export Value,Sheep,2013,1000 US$,9871,Official figure,IE
+446,854,Crops and livestock products,Ireland,Export Value,Sheep,2014,1000 US$,5955,Official figure,IE
+447,855,Crops and livestock products,Ireland,Export Value,Sheep,2015,1000 US$,2087,Official figure,IE
+448,856,Crops and livestock products,Ireland,Export Value,Sheep,2016,1000 US$,2222,Official figure,IE
+449,857,Crops and livestock products,Ireland,Export Value,Sheep,2017,1000 US$,3042,Official figure,IE
+450,858,Crops and livestock products,Ireland,Export Value,Sheep,2018,1000 US$,2213,Official figure,IE
+451,859,Crops and livestock products,Ireland,Export Value,Sheep,2019,1000 US$,1295,Official figure,IE
+452,860,Crops and livestock products,Ireland,Export Value,Sheep,2020,1000 US$,3091,Official figure,IE
+453,861,Crops and livestock products,Ireland,Export Value,Sheep,2021,1000 US$,1822,Official figure,IE
